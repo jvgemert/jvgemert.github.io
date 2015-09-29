@@ -1,0 +1,175 @@
+body.page
+{
+    background-color: #FFFFFF;
+    font-family: verdana, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 180%;
+}
+
+h2 {
+    padding-top:0px;
+    font-size: 150%;
+}
+
+h3 {
+    font-size: 120%;
+}
+
+td {
+    padding: 5px;
+}
+
+
+td.leftcol, td.rightcol, td.navigation
+{
+    background-color: #FFFFFF;
+}
+
+div.indent
+{
+padding-left: 20px;
+}
+
+b { 
+  color:#336699;
+  }
+
+td.navigation {
+    width: 85px;
+    min-width: 85px;
+    font-size: 80%;
+    color:black;
+    background-color: #FFFFFF;
+    padding-left: 10px;
+    padding-right:0px;
+    padding-top:20px;
+    vertical-align:top;
+    line-height:.8em;
+    text-align: left;
+    font-family: verdana, sans-serif;
+    font-weight:bold;
+    border: 0px solid #DDDDDD;
+}
+
+td.navigation a:visited, td.navigation a {
+    padding: 7px;
+    display: block;
+    border: 0px solid #DDDDDD;
+    text-decoration: none;
+    line-height: 1em;
+    width: 85px;
+    color: #336699; 
+    
+}
+
+td.navigation a:hover, td.navigation a:active
+{
+    color: blue;
+    background-color: #DDDDDD;
+ }
+
+
+td.header, td.contents, td.footer {
+    padding-right:20%;
+    background-color:#FFFFFF;
+}
+
+td.header {
+    height:50px;
+    font-size:130%;
+    font-family:verdana, sans-serif;
+    font-weight:bold;
+    color:navy;
+    background-color: #FFFFFF;
+    vertical-align: middle;
+    text-align: left;
+}
+
+td.footer {
+    font-size:80%;
+    font-family:sans-serif;
+    color: navy;
+    height: 30px;
+    background-color: #FFFFFF;
+    text-align: left;
+}
+
+td.contents
+{
+    font-size: 85%;
+    padding-top: 0px;
+    padding-left: 20px;
+    height:400px;
+    min-height:400px;
+    vertical-align:top;  
+    text-align: left;
+}
+
+td.contents h2 {
+    color: #336699;
+}
+
+td.contents h3 {
+    color: maroon;
+}
+
+
+table.pagetable {
+    line-height:1.3em;
+	width:100%;
+}
+
+:link {
+    color: #993333;
+}
+
+:visited {
+    color: #663333;
+}
+
+td.contents table.schedule {
+    width: 100%;
+}
+
+td.contents table.schedule th {
+    background-color: #E0E0E0;
+    color: maroon;
+    font-weight: bold;
+}
+
+td.contents table.schedule td {
+    background-color: #F0F0F0;
+    padding-top: 0px;
+}
+
+table.twocolumn {
+    width: 100%;
+}
+
+.twocolumn  th {
+    font-size: 85%;
+    text-align: left;
+    vertical-align: text-top;
+    background-color: #E0E0E0;
+}
+
+.twocolumn  td {
+    font-size: 85%;
+    text-align: left;
+    line-height:1.5em;
+    vertical-align: text-top;
+    background-color: #FFFFFF;
+}
+
+p.verse {
+  white-space: pre;
+}
+
+pre {
+  white-space: pre;
+  font-family: monospace;
+  margin-left: 5%;
+}
