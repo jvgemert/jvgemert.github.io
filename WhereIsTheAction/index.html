@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Where is the action?</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+
+  <body>
+    <!-- Presentation Begin -->
+    <textarea id="source">
+
+class: center, middle
+
+# Where is the action? 
+(Follow the data: Data sets in Action Recognition)
+
+<br/>
+
+<br/>
+
+
+
+<br/>
+
+<br/>
+
+[Jan van Gemert](http://jvgemert.github.io/)
+
+
+
+Computer Vision lab
+
+<img src="im/Delft.png" width=200>
+
+
+
+---
+# Why study automatic action recognition?
+
+
+
+<img src="im/open.jpg" width=300>  
+
+--
+
+To understand *open*: go beyond 'mere' appearance or motion 
+
+--
+- Closet
+
+--
+- My mouth 
+--
+(your mouth)
+
+--
+- A present
+
+--
+- A patient
+
+--
+- My laptop
+
+--
+- My laptop
+
+--
+
+Very different motions in very different settings: Aim for 'true understanding'.
+
+
+
+
+---
+# Application domains of action recognition
+
+
+
+Surveillance
+
+Sports (amateur/ prof)
+
+Amateur stories: home/social media
+
+Pro stories: Artists, producers, movie
+
+Autonomous Agents: Robot interaction, cars
+
+
+---
+# Datasets
+
+|                        |   &nbsp;   |    |     |    |       |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |  &nbsp;    |    |     |    |       |       |       |       |         |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |      |    |     |    |       |       |       |       |         |
+| [AVA](https://research.google.com/ava/)                    |      |    |     |    |       |       |       |       |         |
+| [Charades](http://vuchallenge.org/charades.html)               |      |    |     |    |       |       |       |       |         |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |      |    |     |    |       |       |       |       |         |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |      |    |     |    |       |       |       |       |         |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |      |    |     |    |       |       |       |       |         |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |      |    |     |    |       |       |       |       |         |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |      |    |     |    |       |       |       |       |         |
+| [Moments In Time](http://moments.csail.mit.edu/)        |      |    |     |    |       |       |       |       |         |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |      |    |     |    |       |       |       |       |         |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |      |    |     |    |       |       |       |       |         |
+
+
+
+---
+# Datasets
+
+|                        | Task |    |     |    |       |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |       |       |       |       |         |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |      |    |     |    |       |       |       |       |         |
+| [AVA](https://research.google.com/ava/)                    |      |    |     |    |       |       |       |       |         |
+| [Charades](http://vuchallenge.org/charades.html)               |      |    |     |    |       |       |       |       |         |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |      |    |     |    |       |       |       |       |         |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |      |    |     |    |       |       |       |       |         |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |      |    |     |    |       |       |       |       |         |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |      |    |     |    |       |       |       |       |         |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |      |    |     |    |       |       |       |       |         |
+| [Moments In Time](http://moments.csail.mit.edu/)        |      |    |     |    |       |       |       |       |         |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |      |    |     |    |       |       |       |       |         |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |      |    |     |    |       |       |       |       |         |
+
+
+---
+# Datasets
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |   Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)         |       |    |     |    |       |       |       |       |         |
+| [AVA](https://research.google.com/ava/)                    |      |    |     |    |       |       |       |       |         |
+| [Charades](http://vuchallenge.org/charades.html)               |      |    |     |    |       |       |       |       |         |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |      |    |     |    |       |       |       |       |         |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |      |    |     |    |       |       |       |       |         |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |      |    |     |    |       |       |       |       |         |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |      |    |     |    |       |       |       |       |         |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |      |    |     |    |       |       |       |       |         |
+| [Moments In Time](http://moments.csail.mit.edu/)        |      |    |     |    |       |       |       |       |         |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |      |    |     |    |       |       |       |       |         |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |      |    |     |    |       |       |       |       |         |
+
+
+
+
+---
+# Datasets
+
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  203  |  648  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  1  |  1 |   80  |  108  | 0.43k |  386k |   900   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  157  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  157  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  149  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  200  |  861  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  200  |  861  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  1800 |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  339  |  833  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  174  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  1 |   65  |   30  | 0.41k |  39k  |   10.5  |
+
+
+---
+# Datasets
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  203  |  <font color='red'>**648**</font>  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  1  |  1 |   80  |  108  | 0.43k |  386k |   900   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  157  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  157  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  149  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  200  |  <font color='red'>**861**</font>  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  200  |  <font color='red'>**861**</font>  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  <font color='red'>**1800**</font> |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  339  |  <font color='red'>**833**</font>  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  174  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  1 |   65  |   30  | 0.41k |  39k  |   10.5  |
+
+--
+Datasets are increasingly getting larger.
+
+
+---
+# Datasets
+
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  203  |  648  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  1  |  1 |   80  |  108  | 0.43k |  386k |   900   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  157  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  157  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  149  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  200  |  861  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  200  |  861  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  1800 |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  339  |  833  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  174  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  1 |   65  |   30  | 0.41k |  39k  |   10.5  |
+
+
+
+---
+# Datasets
+
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  <font color='red'>**203**</font>  |  648  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  1  |  1 |   <font color='red'>**80**</font>  |  108  | 0.43k |  386k |   900   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  <font color='red'>**157**</font>  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  <font color='red'>**157**</font>  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  <font color='red'>**149**</font>  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  <font color='red'>**200**</font>  |  861  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  <font color='red'>**200**</font>  |  861  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  1800 |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  <font color='red'>**339**</font>  |  833  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  <font color='red'>**174**</font>  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  1 |   <font color='red'>**65**</font>  |   30  | 0.41k |  39k  |   10.5  |
+
+--
+It is difficult to scale action classes.
+
+
+---
+# Datasets
+
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  203  |  648  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  1  |  1 |   80  |  108  | 0.43k |  386k |   900   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  157  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  157  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  149  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  200  |  861  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  200  |  861  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  1800 |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  339  |  833  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  174  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  1 |   65  |   30  | 0.41k |  39k  |   10.5  |
+
+
+
+
+---
+# Datasets
+
+
+|                        | Task |    |     |    | Stats |       |       |       |         |
+|------------------------|:----:|:--:|:---:|:--:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|                        |   C  | TL | STL | ML |  Labs | hours |  Vids |  Segm | Act/vid |
+| [ActivityNet 1.3](http://activity-net.org/index.html)        |   1  |  1 |  0  |  0 |  203  |  648  |  20k  |  30k  |   1.5   |
+| [AVA](https://research.google.com/ava/)                    |   1  |  1 |  <font color='red'>**1**</font>  |  <font color='red'>**1**</font> |   80  |  108  | 0.43k |  386k |   <font color='red'>**900**</font>   |
+| [Charades](http://vuchallenge.org/charades.html)               |   1  |  1 |  0  |  0 |  157  |   82  |  9.8k |  67k  |    7    |
+| [Charades-Ego](https://allenai.org/plato/charades/)           |   1  |  1 |  0  |  0 |  157  |   69  |  7.9k |  69k  |    9    |
+| [Epic-Kitchens](https://epic-kitchens.github.io/2019)          |   1  |  0 |  0  |  0 |  149  |   55  | 0.43k |  40k  |    1    |
+| [HACS-clips](http://hacs.csail.mit.edu/)             |   1  |  0 |  0  |  0 |  200  |  861  |  504k | 1550k |    1    |
+| [HACS-segments](http://hacs.csail.mit.edu/)          |   0  |  1 |  0  |  0 |  200  |  861  |  50k  |  140k |   2.8   |
+| [Kinetics-700](https://drive.google.com/file/d/164kU_MFTKzmefbgOLntuiiTmADutl_x0/view)           |   1  |  0 |  0  |  0 |  700  |  1800 |  650k |   -   |    1    |
+| [Moments In Time](http://moments.csail.mit.edu/)        |   1  |  0 |  0  |  0 |  339  |  833  | 1000k |   -   |    1    |
+| [Something-Something-v2](https://20bn.com/datasets/something-something) |   1  |  0 |  0  |  0 |  174  |  244  |  220k |   -   |    1    |
+| [Thumos-Multi](http://ai.stanford.edu/~syyeung/everymoment.html)           |   1  |  1 |  0  |  <font color='red'>**1**</font> |   65  |   30  | 0.41k |  39k  |   <font color='red'>**10.5**</font>  |
+
+--
+Fine-grained labeling is present, yet not common.
+
+
+---
+# Where is the action?
+
+--
+
+- Reduce annotation effort using visual inductive priors (Orthogonal to DL architecture improvements)
+
+--
+
+- Huge datasets. How to reduce memory/compute? (both for train and for test)
+
+--
+
+- How to train from scratch on small datasets?
+
+--
+
+- Long term dependencies, reasoning with relations. (Classification based on long ago)
+
+--
+
+- Why treat time differently than space? (Causality?, Sampling units? )
+
+
+
+
+
+
+
+
+    </textarea>
+    <!-- Presentation End -->
+
+    <!-- Load Plugins -->
+    <script src="./plugins/MathJax/MathJax.js?config=TeX-AMS_HTML-full" type="text/javascript"></script>
+    <!-- Load Plugins -->
+
+    <!-- Build Slide -->
+    <script src="remark.min.js"></script>
+    <script>var slideshow = remark.create(/*{sourceUrl: 'presentation-file.md'}*/);</script>
+    <!-- Build Slide -->
+  </body>
+</html>
