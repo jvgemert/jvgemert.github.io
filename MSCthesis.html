@@ -131,7 +131,7 @@ This means your thesis report will need three parts:
 
 <UL>
 
-<li> <u>Part 1: Introduction chapter</u>: The goal of this chapter is to make the full report readable for a non-expert. Thus, here you explain the "high level story line", in such a way that a non-expert can understand the story line. Mention that part 2 is a scientific article, and mention which technical background sections are found in part 3, and how these sections in part 3 relate to part 2.
+<li> <u>Part 1: Small introduction chapter</u>: The goal of this small chapter is to make the full report readable for a non-expert. Thus, you explain the structure (thesis = article+background) and briefly explain the "high level story line", in such a way that a non-expert can understand it. Mention that part 2 is a scientific article, and mention which technical background sections are found in part 3, and how these sections in part 3 relate to part 2. This small chapter can be short, maybe even a single page, but a few more pages is fine too.
 
 <li> <u>Part 2: Scientific article</u>:  Preferably in double column CVPR-style Latex format. This is written in the same style as a publication in the field.
 
@@ -163,12 +163,13 @@ The procedure during the defense is approximately as follows:
 Some questions you may expect during your defense, and which thus should also be answered in your thesis and at your Green-Light moment, are:
 
 <UL>
-<li>What is "scientific" about your work? (ie: what is interesting about it for other researchers; what have we now learned?). Note that improved accuracy is nice, but the scientific interest is the detailed, well-motivated, well-investigated, answer to "why does it improve?".  </li>
-<li>I do not believe your explanation is true: "confusing explanation with speculation" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a> ) </li>
-<li>I do not believe the improved accuracy comes from what you claim: "failure to identify the sources of empirical gains" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a> ) </li>
+<li>What is "scientific" about your work? (ie: what is interesting about it for other researchers?; what have we now learned?). </li>
+<li>Can you explain *why* this effect happens? Do you have evidence for this?</li>
+<li>How can we be sure that your explanation is true? Are you "confusing explanation with speculation" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a>) </li>
+<li>How can we be sure that the improved accuracy comes from what you claim: "failure to identify the sources of empirical gains" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a>). Note that improved accuracy is nice, but the scientific interest is the detailed, well-motivated, well-investigated, answer to "why does it improve?".</li>
 <li>When will your method fail? What assumptions does it make? In which cases will your approach not work, and in which cases will it work well?</li>
 <li>Did you look at your results? So not just the numbers, but what do you see when you look at the output on individual samples? For some samples the results improve, and for others the results decrease, are there any explainable patterns for the improving/decreasing samples? Can you quantify this?</li>
-<li>Why did you use this particular evaluation measure? Its nice that others use this, but is this evaluation measure really suitable for what you want to know? </li> 
+<li>Why did you use this particular evaluation measure? Its nice that others use this, but is this evaluation measure the best choice for what you want to know? And why?</li> 
 <li>In your article you use the term XXX; what does this mean?</li>
 <li>Your system has several modules; How well does each module perform? Are all modules needed? Can't we remove module XXX? (ie: you need to do an ablation study to answer these questions) </li>
 <li>If you would have to start again, with the knowledge you have now, what would you have done differently?</li>
