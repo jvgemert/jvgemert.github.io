@@ -56,7 +56,7 @@ For our first meeting, please have a look at the following points and prepare ac
 <li> <u>Information</u>: I will need your first name, last name, email address, name of your MSc program, formal thesis starting date, expected graduation date, netID, and student number.
 
 
-<li> <u>Mare</u>: Sign up your MSc thesis in <a href="https://mare.ewi.tudelft.nl/login">MARE</a> (do this as soon as possible). 
+<li> <u>Mare</u>: (For CS students) Sign up your MSc thesis in <a href="https://mare.ewi.tudelft.nl/login">MARE</a> (do this as soon as possible). 
 
 
 <li> <u>Brightspace</u>: Sign up for the <a href="https://brightspace.tudelft.nl/d2l/home/492868">MSc CS Thesis project EEMCS</a> in Brightspace. 
@@ -67,7 +67,7 @@ For our first meeting, please have a look at the following points and prepare ac
 
 <li> <u>Git</u>: Create a git project named 'mscYourName' with 3 folders: 'code' (for your code), 'thesis' (for your latex files), 'notes' (for our agreements). If a repo does not exist for you already, send an email to eip-ewi at tudelft dot nl to let them create a TU Delft gitlab repository for you, and mention that you are my MSc thesis student.</li>
 
-<li> <u>Committee</u>: For your thesis committee graduation we need at least 1 member outside of the PRB section. At our first meeting, please suggest 2 potential EWI faculty members outside PRB to be on your committee. You can find potential committee members on the "people" sections of the TUD computer science webpages, or it can be faculty members where you enjoyed their courses or have had contact with before. Note: it has to a faculty member from EWI.   </li>
+<li> <u>Committee</u>: For your thesis committee graduation we need at least 1 member outside of the PRB section. At our first meeting, please suggest 2 potential EWI faculty members outside PRB to be on your committee. You can find potential committee members on the "people" sections of the TUD computer science webpages, or it can be faculty members where you enjoyed their courses or have had contact with before. Note: it has to a faculty member from EWI. Try to submit this form as soon as possible. </li>
 
 
 <li> <u>Marunka</u>: After we had our first meeting: send an email to Marunka van Stight (M.vanStight@tudelft.nl) to let her know your starting date and that you will start your MSc thesis with me and ask her for an account on our GPU cluster.</li>
@@ -81,7 +81,6 @@ Things to do when you start your thesis: <p/>
 <UL>
 
 
-<li> <u>Committee</u>: Please submit the "Thesis Committee form", where we add an EWI faculty member outside of PRB (see "first meeting"). </li>
 
 
 <li> <u>Mattermost</u>:  Sign up for our <a href="https://mattermost.tudelft.nl/signup_user_complete/?id=87rmfkpnz7n3bqyw67csyqfu7w">Mattermost</a> and join the public "CV-lab-MSCthesis" channel. You can use this channel to get in contact with other MSc students. Writing a thesis is very individual, so please use this opportunity to meet/discuss with other students in a similar situation.
@@ -92,20 +91,25 @@ Things to do when you start your thesis: <p/>
 
 <li> <u>GPU cluster</u>: Please inform yourself about how to use our <a href="https://login.hpc.tudelft.nl/">compute cluster</a>.  </li>
 
-<li> <u>Cluster folder</u>:  On the cluster, please create a folder with your name in "/tudelft.net/staff-umbrella/StudentsCVlab/" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes). Check for common datasets in "/tudelft.net/staff-bulk/ewi/insy/CV-DataSets". If you use conda, do "conda clean --all" after installing.  Please regularly remove things you no longer need.</li>
+<li> <u>Cluster folder</u>:  On the cluster, please create a folder with your name in "/tudelft.net/staff-umbrella/StudentsCVlab/" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes: Consider using <a href="https://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF5</a>). Check for common datasets in "/tudelft.net/staff-bulk/ewi/insy/CV-DataSets". If you use conda, do "conda clean --all" after installing.  Please regularly remove things you no longer need.</li>
 
 <li> <u>Research</u>: Read my research <a href="http://jvgemert.github.io/links.html">guidelines</a>.</li>
 
 
+<li> <u>Committee</u>: Please submit the "Thesis Committee form" as soon as possible, where we add an EWI faculty member outside of PRB (see "first meeting"). </li>
+
 </UL>
 
 <b>During your thesis.</b> <br/> 
-Things to keep in mind when you are doing your thesis research: <p/>
+Things to keep in mind when you are doing your thesis research (remember to go back to this page): <p/>
 
 <UL>
 
 
-<li> <u>Green light</u>:  The green-light moment is when your (co)supervisor(s) agree that you have enough results to graduate. This means that the main research questions have been answered. Yet, there are possibly more things to try, and more text to write. When we believe that the main results will no longer change, that is "green light". To determine "green light", you should be able to answer the "Graduation questions" written at the bottom of this document. </li>
+<li> <u>Go/NoGo</u>: After around 10 weeks  we have a Go/NoGo decision (first stage review), the goal is to verify that the topic is suitable; if the topic is not good/fertile, or not a good fit for you, then it's (difficult, but) really better for you to find a different topic as soon as possible, otherwise you might not be able to graduate (or spend excessive amounts of time). Don't worry: I've never had a "no go" yet; so, if you are able to get some progress it will be OK; there is also a 'repair' possibility. (For CS students) we will fill out the MaRe form together, see the  <a href="https://mare.ewi.tudelft.nl/login">MaRe system</a>.
+
+
+<li> <u>Green light</u>:  The green-light moment is when your (co)supervisor(s) agree that you have enough results to graduate. This means that the main research questions have been answered. Yet, there are possibly more things to try, and more text to write. When we believe that the main results will no longer change (there will be no more surprises), that is "green light". To determine "green light", you should be able to answer the "Graduation questions" written at the bottom of this document. </li>
 
 <li> <u>Training</u>: Are you training deep networks? Unfortunately, significant time goes to tuning hyper-parameters, please be prepared to follow <a href="http://karpathy.github.io/2019/04/25/recipe/">A Recipe for Training Neural Networks</a> </li>
 
@@ -121,6 +125,12 @@ Things to keep in mind when you are doing your thesis research: <p/>
 <li> <u>Update</u>:  Do not forget to keep everything in your git up to date</li>
 
 <li> <u>Stuck?</u>: Whenever you are stuck: First re-read my <a href="http://jvgemert.github.io/links.html">guidelines</a>, especially the <a href="http://jvgemert.github.io/HowToDoResearchInDL-1page.pdf">typical questions I ask</a>, as you can try to ask them yourself.</li>
+
+
+<li> <u>Committee</u>: Did you already submit the "Thesis Committee form"? Where we add an EWI faculty member outside of PRB (see "first meeting"). </li>
+
+<li> <u>Clean</u>: Please regularly remove things you no longer need. How is it going with the number of (small) files? Please avoid using very many small files, as this slows down access and clogs the file system (limited nr of inodes). Consider using <a href="https://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF5</a>.
+
 
 </UL>
 
