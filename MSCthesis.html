@@ -53,14 +53,11 @@ For our first meeting, please have a look at the following points and prepare ac
 
 <li> <u>Background</u>: Show me that you have sufficient background knowledge for doing a thesis in my research field; ie: that you experience with Deep Learning and Computer Vision.</li>
 
-<li> <u>Information</u>: I will need your first name, last name, email address, name of your MSc program, formal thesis starting date, expected graduation date, netID, and student number.
 
-<li> <u>Thesis at a company?</u>: We need to setup a "3 party agreement" about IP etc. Please contact <a href="mailto:thesis-eemcs@tudelft.nl">thesis-eemcs@tudelft.nl</a>.
-
-
-<li> <u>Mare</u>: (For CS students) Sign up your MSc thesis in <a href="https://mare.ewi.tudelft.nl/login">MARE</a> (do this as soon as possible). 
+<li> <u>Mare</u>: (For CS students) Sign up your MSc thesis in <a href="https://mare.ewi.tudelft.nl/login">MaRe</a> (do this as soon as possible). 
 
 
+<li> <u>Committee form in MaRe</u>: For your thesis committee graduation we need at least 1 member outside of the PRB section. At our first meeting, please suggest 2 potential EWI faculty members outside PRB to be on your committee. You can find potential committee members on the "people" sections of the TUD computer science webpages, or it can be faculty members where you enjoyed their courses or have had contact with before. Note: it has to a faculty member from EWI. Try to submit this form as soon as possible. </li>
 <li> <u>Brightspace</u>: Sign up for the <a href="https://brightspace.tudelft.nl/d2l/home/492868">MSc CS Thesis project EEMCS</a> in Brightspace. 
 
 
@@ -69,10 +66,12 @@ For our first meeting, please have a look at the following points and prepare ac
 
 <li> <u>Git</u>: During this meeting I will create a git project for you. Please create 3 folders: 'code' (for your code), 'thesis' (for your latex files), 'notes' (for our agreements).</li>
 
-<li> <u>Committee</u>: For your thesis committee graduation we need at least 1 member outside of the PRB section. At our first meeting, please suggest 2 potential EWI faculty members outside PRB to be on your committee. You can find potential committee members on the "people" sections of the TUD computer science webpages, or it can be faculty members where you enjoyed their courses or have had contact with before. Note: it has to a faculty member from EWI. Try to submit this form as soon as possible. </li>
 
 
 <li> <u>Marunka</u>: After we had our first meeting: send an email to Marunka van Stight (M.vanStight@tudelft.nl) to let her know your starting date and that you will start your MSc thesis with me and ask her for an account on our <a href="https://doc.daic.tudelft.nl/">GPU cluster</a>.</li>
+
+
+<li> <u>Thesis at a company?</u>: We need to setup a "3 party agreement" about IP etc. Please contact <a href="mailto:thesis-eemcs@tudelft.nl">thesis-eemcs@tudelft.nl</a>.
 
 
 </UL>
@@ -95,7 +94,7 @@ Things to do when you start your thesis: <p/>
 
 <li> <u>Cluster folder</u>:  On the cluster, please create a folder with your name in "/tudelft.net/staff-umbrella/StudentsCVlab/" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes: Consider using <a href="https://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF5</a>). Check for common datasets in "/tudelft.net/staff-bulk/ewi/insy/CV-DataSets". If you use conda, do "conda clean --all" after installing.  Please regularly remove things you no longer need.</li>
 
-<li> <u>Research</u>: Read my research <a href="http://jvgemert.github.io/links.html">guidelines</a>.</li>
+<li> <u>Research</u>: Read my research <a href="http://jvgemert.github.io/links.html">guidelines</a>. Especially the <a href="http://jvgemert.github.io/writing.pdf">Writing</a>; the <a href="http://jvgemert.github.io/storyline.pdf">storyline</a>, the <a href="http://jvgemert.github.io/research.pdf">Research organization</a>, and on <a href="http://jvgemert.github.io/meetings.pdf">Research meetings</a></li>
 
 
 <li> <u>Committee</u>: Please submit the "Thesis Committee form" as soon as possible, where we add an EWI faculty member. This has to be an 'external' EWI faculty member, ie: outside of the PRB group (see "first meeting"). </li>
@@ -200,13 +199,17 @@ Some questions you may expect during your defense, and which thus should also be
 <li>Did you validate your competitors? A competitor is a method that solves the problem of the baseline in a different way that you do.  How sure are you that the  competitors that you compare to, are correctly implemented or well-trained? What is your evidence for this claim? (for example: with a reproduction on a published result).</li>
 <li>How can we be sure that your explanation is correct? Are you "confusing explanation with speculation" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a>). What is your evidence for this? </li>
 <li>How can we be sure that the improved accuracy comes from what you claim: "failure to identify the sources of empirical gains" (see: <a href="https://arxiv.org/abs/1807.03341">Troubling Trends in Machine Learning Scholarship</a>). Note that improved accuracy is nice, but the scientific interest is the detailed, well-motivated, well-investigated, answer to "why does it improve?", and providing evidence for this.</li>
-<li>When will your method fail? What assumptions does it make? In which cases will your approach not work, and in which cases will it work well? Do you have evidence for this?</li>
+<li>When will your approach fail? What assumptions does it make? In which cases will your approach not work, and in which cases will it work well? Do you have evidence for this? If not, what would be the steps to gather this evidence?</li>
+<li>Will your approach generalize to a slight different setting (eg, more realistic, different domain, different modality, etc..)? In which cases will your approach not generalize, and in which cases will it work well? Do you have evidence for this? If not, what would be the steps to gather this evidence?</li>
 <li>Did you look at your results? So not just the numbers, but what do you see when you look at the output on individual samples? For some samples the results improve, and for others the results decrease, are there any explainable patterns for the improving/decreasing samples? Can you quantify this?</li>
-<li>Why did you use this particular evaluation measure? Its nice that others use this, but is this evaluation measure the best choice for what you want to know? And why?</li> 
-<li>In your article you use the term XXX; what does this mean?</li>
 <li>Your system has several modules; How well does each module perform? Are all modules needed? Can't we remove module XXX? (ie: you need to do an ablation study to answer these questions) </li>
+<li>Why did you use this particular evaluation measure? Its nice that others use this, but is this evaluation measure the best choice for what you want to know? And why?</li> 
+<li>Why did you use this particular (analysis, statistical, training, hyper-parameter tuning, etc. ) method? Are there not other, better fitting ones? Why (not)?</li> 
+<li>In your article you use the term XXX; what does this mean?</li>
 <li>If you would have to start again, with the knowledge you have now, what would you have done differently?</li>
 <li>Looking back, what was the most difficult part, and how did you overcome this?</li>
+<li>Looking forward, if we give you 1 million Euros funding to continue your work, what would you use the funding for? (be as specific as possible).</li>
+<li>Do you see societal value in you work? If so, what is it, and [c|w]ould you want to be able to explore this further, and how?</li>
 </UL>
 
 
