@@ -1,0 +1,25 @@
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
+
+"CVPRw":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"ECCV":
+  color: "#009f36"
+  
+"ECCVw":
+  color: "#009f36"
+  
+"ICCV":
+  color: "#ff9f36"
+  
+"ICCVw":
+  color: "#ff9f36"
+
+
+
