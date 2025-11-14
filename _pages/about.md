@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Head of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a> at Delft University of Technology, The Netherlands. I am studying visual recognition AI and my research style is characterized by
+subtitle: Head of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a> at Delft University of Technology, The Netherlands. 
 
 profile:
   align: left
@@ -27,6 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am studying visual recognition AI and my research style is characterized by:
 
 
 **Fundamental empirical understanding-based deep learning research.**
