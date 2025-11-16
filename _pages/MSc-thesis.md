@@ -56,7 +56,7 @@ Things to do when you start your thesis:
 
 - **Cluster folder**:  On the cluster, please create a folder with your name in "`/tudelft.net/staff-umbrella/StudentsCVlab/`" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes: Consider using [HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format/)). Check for common datasets in "`/tudelft.net/staff-bulk/ewi/insy/CV-DataSets`". If you use conda, do "`conda clean --all`" after installing.  Please regularly remove things you no longer need.
 
-- **Research**: Read my research [guidelines](/links.html/). Especially the [Writing](/writing.pdf); the [storyline](/storyline.pdf), the [Research organization](/research.pdf), and on [Research meetings](/meetings.pdf).
+- **Research**: Read my research [guidelines](/links.html). Especially the [Writing](/writing.pdf); the [storyline](/storyline.pdf), the [Research organization](/research.pdf), and on [Research meetings](/meetings.pdf).
 
 
 - **Committee**: If you haven't yet: Please submit the "`Thesis Committee form`" as soon as possible, where we add an EWI faculty member. This has to be an 'external' EWI faculty member, ie: outside of the PRB group (see "first meeting"). 
@@ -79,7 +79,7 @@ Things to keep in mind when you are doing your thesis research (remember to go b
 
 - **When to meet me**:  Meet me whenever it is useful for you. This could for example be when you want to brainstorm, are unsure about something, need to make an informed descision about which direction to go before making a big step, etc. If you need to, we can meet every week, or, if you don't need to, then we can meet each 3 weeks: plan it whenever it is useful for you, so if you want to meet me just to update me of your progress, then it might not be very useful for you and you can consider to postpone the meeting. Please keep in mind that you are responsible for scheduling meetings and your own progress. 
 
-- **How to meet me**:  Invite your co-supervisor for each meeting and schedule yourself for a slot [online](meeting.html/). Please limit the presentation time to maximally half the time of the meeting, so that there is enough time to interact. 
+- **How to meet me**:  Invite your co-supervisor for each meeting and schedule yourself for a slot [online](meeting.html). Please limit the presentation time to maximally half the time of the meeting, so that there is enough time to interact. 
 
 - **What to discuss with me**:  Start with a short presentation taking no longer than half of the scheduled time. The first slide should be the current "high level story line", see the [story line](/storyline.pdf). This story line makes sure that we are all still aware of the topic and direction, which is important as the direction (and thus the story line) will change over time. Slide 2: Quick reminder of what part of the story line you will now present, and possibly any agreements that we made last time. Remaining slides are for content. Put the answer to the [typical questions I ask](/HowToDoResearchInDL-1page.pdf) on each slide, if relevant. If you present results, make sure to explicitly write down all conclusions you draw from these results on the slide. 
 
