@@ -56,7 +56,7 @@ Things to do when you start your thesis:
 
 - **Cluster folder**:  On the cluster, please create a folder with your name in "`/tudelft.net/staff-umbrella/StudentsCVlab/`" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes: Consider using [HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format/)). Check for common datasets in "`/tudelft.net/staff-bulk/ewi/insy/CV-DataSets`". If you use conda, do "`conda clean --all`" after installing.  Please regularly remove things you no longer need.
 
-- **Research**: Read my research [guidelines](/links.html/). Especially the [Writing](/writing.pdf/); the [storyline](/storyline.pdf/), the [Research organization](/research.pdf/), and on [Research meetings](/meetings.pdf/).
+- **Research**: Read my research [guidelines](/links.html/). Especially the [Writing](/writing.pdf); the [storyline](/storyline.pdf), the [Research organization](/research.pdf), and on [Research meetings](/meetings.pdf).
 
 
 - **Committee**: If you haven't yet: Please submit the "`Thesis Committee form`" as soon as possible, where we add an EWI faculty member. This has to be an 'external' EWI faculty member, ie: outside of the PRB group (see "first meeting"). 
@@ -85,7 +85,7 @@ Things to keep in mind when you are doing your thesis research (remember to go b
 
 - **Update**:  Do not forget to keep everything in your git up to date
 
-- **Stuck?**: Whenever you are stuck: First re-read my [guidelines](/links.html), especially the[typical questions I ask](http://jvgemert.github.io/HowToDoResearchInDL-1page.pdf/), as you can try to ask them yourself.
+- **Stuck?**: Whenever you are stuck: First re-read my [guidelines](/links.html), especially the [typical questions I ask](http://jvgemert.github.io/HowToDoResearchInDL-1page.pdf), as you can try to ask them yourself.
 
 
 - **Committee**: Did you already submit the "Thesis Committee form"? Where we add an EWI faculty member outside of PRB (see "first meeting"). 
