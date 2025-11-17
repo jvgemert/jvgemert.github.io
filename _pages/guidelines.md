@@ -24,7 +24,7 @@ I do not believe in rigid rules, yet, I do have a set of guiding principles. My 
     
 #### Research paper template.  
 
-Fill in this [paper\_skeleton](/paper_skeleton.rtf) when writing a research paper. For everybody who is writing a paper or thesis with me. This template helps to organize our thoughts and adds structure to the writing process. Here is an [example skeleton](assets/pdf/paper_skeleton_example_CVPR20.rtf) for one of my [papers](pub/kayhanCVPR20translationInvarianceCNN.pdf).
+Fill in this [paper\_skeleton](assets/pdf/paper_skeleton.rtf) when writing a research paper. For everybody who is writing a paper or thesis with me. This template helps to organize our thoughts and adds structure to the writing process. Here is an [example skeleton](assets/pdf/paper_skeleton_example_CVPR20.rtf) for one of my [papers](pub/kayhanCVPR20translationInvarianceCNN.pdf).
     
 #### Grant proposal writing.
 
