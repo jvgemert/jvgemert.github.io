@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Head of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a> at Delft University of Technology, The Netherlands. 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: jan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: 28.6.E340</p>
+    <p>Van Mourik Broekmanweg 6</p>
+    <p>2628 XE Delft, NL</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am studying visual recognition AI and my research style is characterized by:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Fundamental empirical understanding-based deep learning research.**
+I do fundamental research; I study the underlying visual AI models used in specific applications. I find Deep Learning instrumental in Computer Vision, where the end-to-end paradigm is essential to allow information to flow between learning the extracted features on the one end (input) that contribute to the visual task at the other end (output). I am an empiricist and do understanding-based research, this means that I ask for (controlled) experiments that validate each step along the way; and search for experimental evidence to try to understand and motivate why a possible improvement happens, and why and when it does not. See my [research guidelines](/links.html).
+
+**Find &amp; evaluate powerful yet flexible physical priors for data-efficient visual recognition AI.**
+The foundation of current visual AI is built on top of huge, uncurated data. This data is predominantly controlled by a handful of private companies, what makes us dependent on them. Because of the size, this data is computationally demanding to process, and difficult to curate for bias, privacy, or otherwise sensitive data. My research is on exploiting prior knowledge from the image formation process to reduce the amount of data needed to train visual AI: All knowledge that is built-in no longer has to be learned from data. With respect to built-in knowledge, my interpretation of [Rich Sutton's "Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) is that we should scale those AI models that extract the strongest learning signal from each and every valuable data sample. 
+
