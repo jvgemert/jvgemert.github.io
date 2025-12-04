@@ -1,9 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
+
+"CVPRw":
+  url: https://cvpr.thecvf.com/
   color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"ECCV":
   color: "#009f36"
+  
+"ECCVw":
+  color: "#009f36"
+  
+"ICCV":
+  color: "#ff9f36"
+  
+"ICCVw":
+  color: "#ff9f36"
+
+
+"NeurIPS":
+  color: "#ff1111"
+  
+"TPAMI":
+  color: "#ff1111"  
+
+"ICLR":
+  color: "#eed202"
+  
+"ICLRw":
+  color: "#eed202"  
