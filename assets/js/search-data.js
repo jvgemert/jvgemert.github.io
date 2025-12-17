@@ -793,4 +793,7 @@ ninja.data = [{
           section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-dr-t-schoonbeek-technical-university-eindhoven-tue",
           title: 'PhD Committee. For the PhD defense of Dr. T. Schoonbeek, Technical University Eindhoven...',
           description: "",
+          section: "News",},{id: "news-talk-at-the-autoriteit-persoonsgegevens-dutch-data-protection-authority-in-the-hague-giving-an-technical-introduction-to-deep-learning",
+          title: 'Talk. At the Autoriteit Persoonsgegevens (Dutch Data Protection Authority) in The Hague; giving...',
+          description: "",
           section: "News",},];
