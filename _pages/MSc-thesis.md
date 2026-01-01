@@ -133,7 +133,7 @@ The procedure during the defense is approximately as follows:
 - You give a presentation of around 20 minutes (follow my presentation [guidelines](/links.html).) The presentation time is short on purpose: we wish to assess how well you can extract the essentials of your work. 
 - Some questions from the audience. 
 - Detailed questions from the committee members. 
-- The committee retreats and decides on a  [weighted](/thesis_form.pdf) grade, based on this  [matrix.](/thesis_matrix.pdf)
+- The committee retreats and decides on a  [weighted](/assets/pdf/thesis_form.pdf) grade, based on this  [matrix.](/assets/pdf/thesis_matrix.pdf)
 - The committee motivates the grade to the candidate privately. 
 - The diploma ceremony proceeds in public. 
 
