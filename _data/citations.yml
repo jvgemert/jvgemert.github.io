@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-01-09'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 79
@@ -34,7 +34,7 @@ papers:
     title: 'On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location'
     year: '2020'
   JUdMRGcAAAAJ:3MwzVuqRcA0C:
-    citations: 21
+    citations: 20
     title: 'MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes'
     year: '2024'
   JUdMRGcAAAAJ:3_LpOwP6eMYC:
@@ -54,7 +54,7 @@ papers:
     title: Do Object Detection Localization Errors Affect Human Performance and Trust?
     year: '2024'
   JUdMRGcAAAAJ:4DMP91E08xMC:
-    citations: 53
+    citations: 54
     title: 'Object Reading: Text Recognition for Object Recognition'
     year: '2012'
   JUdMRGcAAAAJ:4QKQTXcH0q8C:
@@ -526,7 +526,7 @@ papers:
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 112
+    citations: 113
     title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
@@ -554,7 +554,7 @@ papers:
     title: Evaluating Structure-from-Motion on shiny and non-textured surfaces in borescope videos
     year: Unknown Year
   JUdMRGcAAAAJ:h168fVGZblEC:
-    citations: 126
+    citations: 127
     title: Deep Unsupervised Image Hashing by Maximizing Bit Entropy
     year: '2021'
   JUdMRGcAAAAJ:hFOr9nPyWt4C:
@@ -654,7 +654,7 @@ papers:
     title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
-    citations: 2
+    citations: 1
     title: Deep activity propagation via weight initialization in spiking neural networks
     year: '2025'
   JUdMRGcAAAAJ:oldoQiaHq2UC:
@@ -702,7 +702,7 @@ papers:
     title: 'Mediamill: Exploring news video archives based on learned semantics'
     year: '2005'
   JUdMRGcAAAAJ:qsWQJNntlusC:
-    citations: 10
+    citations: 11
     title: Frequency learning for structured CNN filters with Gaussian fractional derivatives
     year: '2021'
   JUdMRGcAAAAJ:qxL8FJ1GzNcC:
@@ -718,7 +718,7 @@ papers:
     title: Aligning Object Detector Bounding Boxes with Human Preference
     year: '2024'
   JUdMRGcAAAAJ:rLGzs9wiiwIC:
-    citations: 84
+    citations: 85
     title: 'Divide and count: Generic object counting by image divisions'
     year: '2018'
   JUdMRGcAAAAJ:rOcdG6UcVlcC:
@@ -814,7 +814,7 @@ papers:
     title: Scale Learning in Scale-Equivariant Convolutional Networks
     year: '2024'
   JUdMRGcAAAAJ:wyM6WWKXmoIC:
-    citations: 38
+    citations: 39
     title: Hand-tremor frequency estimation in videos
     year: '2018'
   JUdMRGcAAAAJ:x21FZCSn4ZoC:
