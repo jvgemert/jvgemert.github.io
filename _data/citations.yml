@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-14'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 79
@@ -10,11 +10,11 @@ papers:
     title: Invariant representations to prepare for content based image retrieval from first principles
     year: '2005'
   JUdMRGcAAAAJ:0ngZmJvimKcC:
-    citations: 38
+    citations: 39
     title: 'AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift'
     year: '2022'
   JUdMRGcAAAAJ:0sTkTiv_uMkC:
-    citations: 36
+    citations: 37
     title: Efficiency in Real-time Webcam Gaze Tracking
     year: '2020'
   JUdMRGcAAAAJ:17ZO-CJnx_8C:
@@ -114,7 +114,7 @@ papers:
     title: Are current long-term video understanding datasets long-term?
     year: '2023'
   JUdMRGcAAAAJ:9DLIHnF0jcYC:
-    citations: 202
+    citations: 201
     title: Nature Conservation Drones for Automatic Localization and Counting of Animals
     year: '2014'
   JUdMRGcAAAAJ:9LpHyFPp1DQC:
@@ -174,7 +174,7 @@ papers:
     title: 'Spot on: Action localization from pointly-supervised proposals'
     year: '2016'
   JUdMRGcAAAAJ:Ej9njvOgR2oC:
-    citations: 25
+    citations: 24
     title: 'ReproducedPapers.org: Openly teaching and structuring machine learning reproducibility'
     year: '2020'
   JUdMRGcAAAAJ:FsLZdJ3BAzkC:
@@ -186,7 +186,7 @@ papers:
     title: Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI
     year: '2023'
   JUdMRGcAAAAJ:GYcXSSpN504C:
-    citations: 90
+    citations: 91
     title: Real-Time Webcam Heart-Rate and Variability Estimation with Clean Ground Truth for Evaluation
     year: '2020'
   JUdMRGcAAAAJ:Gb6Hms-Uo9kC:
@@ -214,7 +214,7 @@ papers:
     title: Emotional valence categorization using holistic image features
     year: '2008'
   JUdMRGcAAAAJ:J3LtWjKFLicC:
-    citations: 110
+    citations: 109
     title: Deep Hough-Transform Line Priors
     year: '2020'
   JUdMRGcAAAAJ:JH5k92_tO-AC:
@@ -494,7 +494,7 @@ papers:
     title: One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network
     year: '2017'
   JUdMRGcAAAAJ:c1AJUTjuCtUC:
-    citations: 0
+    citations: 1
     title: Analyzing components of a transformer under different dataset scales in 3D prostate CT segmentation
     year: '2023'
   JUdMRGcAAAAJ:cBPnxVikjH8C:
@@ -514,7 +514,7 @@ papers:
     title: Is there progress in activity progress prediction?
     year: '2023'
   JUdMRGcAAAAJ:d1gkVwhDpl0C:
-    citations: 833
+    citations: 834
     title: Kernel codebooks for scene categorization
     year: '2008'
   JUdMRGcAAAAJ:d4tt_xEv1X8C:
@@ -570,7 +570,7 @@ papers:
     title: Assessing facial weakness in myasthenia gravis with facial recognition software and deep learning
     year: '2023'
   JUdMRGcAAAAJ:hfzGNhXhx5MC:
-    citations: 2
+    citations: 3
     title: Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models
     year: '2023'
   JUdMRGcAAAAJ:hqOjcs7Dif8C:
@@ -630,7 +630,7 @@ papers:
     title: 'Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting'
     year: '2015'
   JUdMRGcAAAAJ:mB3voiENLucC:
-    citations: 340
+    citations: 341
     title: Action localization with tubelets from motion
     year: '2014'
   JUdMRGcAAAAJ:mVmsd5A6BfQC:
@@ -710,7 +710,7 @@ papers:
     title: Merl--A Mitsubishi Electric Research Laboratory
     year: Unknown Year
   JUdMRGcAAAAJ:rCNdntzdTkkC:
-    citations: 153
+    citations: 152
     title: Structured receptive fields in cnns
     year: '2016'
   JUdMRGcAAAAJ:rFyVMFCKTwsC:
@@ -718,7 +718,7 @@ papers:
     title: Aligning Object Detector Bounding Boxes with Human Preference
     year: '2024'
   JUdMRGcAAAAJ:rLGzs9wiiwIC:
-    citations: 85
+    citations: 86
     title: 'Divide and count: Generic object counting by image divisions'
     year: '2018'
   JUdMRGcAAAAJ:rOcdG6UcVlcC:
@@ -762,7 +762,7 @@ papers:
     title: Searching Scenes by Abstracting Things
     year: '2016'
   JUdMRGcAAAAJ:u3T1itk59dMC:
-    citations: 10
+    citations: 11
     title: Explainability of Deep Learning models for Urban Space perception
     year: '2022'
   JUdMRGcAAAAJ:u5HHmVD_uO8C:
@@ -830,7 +830,7 @@ papers:
     title: Exploring the Long Tail of Social Media Tags
     year: '2016'
   JUdMRGcAAAAJ:xyvS_IvSCKsC:
-    citations: 34
+    citations: 33
     title: 'Black Magic in Deep Learning: How Human Skill Impacts Network Training'
     year: '2020'
   JUdMRGcAAAAJ:yJjnfzR0HrkC:
