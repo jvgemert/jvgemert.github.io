@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-16'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 79
@@ -130,7 +130,7 @@ papers:
     title: Sight-Seeing in the Eyes of Deep Neural Networks
     year: '2018'
   JUdMRGcAAAAJ:9yKSN-GCB0IC:
-    citations: 1018
+    citations: 1017
     title: Visual word ambiguity
     year: '2010'
   JUdMRGcAAAAJ:AFXcoJnoRH0C:
@@ -242,7 +242,7 @@ papers:
     title: Semi-supervised lane detection with Deep Hough Transform
     year: '2021'
   JUdMRGcAAAAJ:L24QuVWYgZ0C:
-    citations: 46
+    citations: 47
     title: Depth-aware motion magnification
     year: '2016'
   JUdMRGcAAAAJ:L8Ckcad2t8MC:
@@ -782,7 +782,7 @@ papers:
     title: 'MediaMill: Video Search using a Thesaurus of 500 Machine Learned Concepts.'
     year: '2006'
   JUdMRGcAAAAJ:ukw-9cB-YDkC:
-    citations: 26
+    citations: 27
     title: Seismic inversion with deep learning
     year: '2021'
   JUdMRGcAAAAJ:vVJNg6_NJEsC:
@@ -830,7 +830,7 @@ papers:
     title: Exploring the Long Tail of Social Media Tags
     year: '2016'
   JUdMRGcAAAAJ:xyvS_IvSCKsC:
-    citations: 33
+    citations: 34
     title: 'Black Magic in Deep Learning: How Human Skill Impacts Network Training'
     year: '2020'
   JUdMRGcAAAAJ:yJjnfzR0HrkC:
