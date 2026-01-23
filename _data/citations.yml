@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-23'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
-    citations: 79
+    citations: 80
     title: Evaluation of color spatio-temporal interest points for human action recognition
     year: '2014'
   JUdMRGcAAAAJ:0EnyYjriUFMC:
@@ -174,7 +174,7 @@ papers:
     title: 'Spot on: Action localization from pointly-supervised proposals'
     year: '2016'
   JUdMRGcAAAAJ:Ej9njvOgR2oC:
-    citations: 24
+    citations: 25
     title: 'ReproducedPapers.org: Openly teaching and structuring machine learning reproducibility'
     year: '2020'
   JUdMRGcAAAAJ:FsLZdJ3BAzkC:
@@ -186,7 +186,7 @@ papers:
     title: Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI
     year: '2023'
   JUdMRGcAAAAJ:GYcXSSpN504C:
-    citations: 91
+    citations: 92
     title: Real-Time Webcam Heart-Rate and Variability Estimation with Clean Ground Truth for Evaluation
     year: '2020'
   JUdMRGcAAAAJ:Gb6Hms-Uo9kC:
@@ -426,7 +426,7 @@ papers:
     title: MediaMill
     year: '2005'
   JUdMRGcAAAAJ:XAp-VaTZjjwC:
-    citations: 31
+    citations: 30
     title: Spectral Leakage and Rethinking the Kernel Size in CNNs
     year: '2021'
   JUdMRGcAAAAJ:XDrR66g3YHsC:
@@ -490,7 +490,7 @@ papers:
     title: Per-patch Descriptor Selection using Surface and Scene Properties
     year: '2012'
   JUdMRGcAAAAJ:bVQMTfhMCi4C:
-    citations: 63
+    citations: 64
     title: One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network
     year: '2017'
   JUdMRGcAAAAJ:c1AJUTjuCtUC:
@@ -526,7 +526,7 @@ papers:
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 113
+    citations: 114
     title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
@@ -554,7 +554,7 @@ papers:
     title: Evaluating Structure-from-Motion on shiny and non-textured surfaces in borescope videos
     year: Unknown Year
   JUdMRGcAAAAJ:h168fVGZblEC:
-    citations: 127
+    citations: 128
     title: Deep Unsupervised Image Hashing by Maximizing Bit Entropy
     year: '2021'
   JUdMRGcAAAAJ:hFOr9nPyWt4C:
@@ -566,7 +566,7 @@ papers:
     title: "D\xE9j\xE0 Vu: Motion prediction in static images"
     year: '2014'
   JUdMRGcAAAAJ:hefNtdE4IMkC:
-    citations: 18
+    citations: 20
     title: Assessing facial weakness in myasthenia gravis with facial recognition software and deep learning
     year: '2023'
   JUdMRGcAAAAJ:hfzGNhXhx5MC:
@@ -598,7 +598,7 @@ papers:
     title: Non-Destructive Infield Quality Estimation of Strawberries Using Deep Architectures
     year: '2023'
   JUdMRGcAAAAJ:j5aT6aphRxQC:
-    citations: 24
+    citations: 25
     title: Differentiable Transportation Pruning
     year: '2023'
   JUdMRGcAAAAJ:jlhcAiayVhoC:
@@ -650,7 +650,7 @@ papers:
     title: 'BING3D: Fast Spatio-Temporal Proposals for Action Localization'
     year: '2015'
   JUdMRGcAAAAJ:oYLFIHfuHKwC:
-    citations: 4
+    citations: 5
     title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
@@ -786,7 +786,7 @@ papers:
     title: Seismic inversion with deep learning
     year: '2021'
   JUdMRGcAAAAJ:vVJNg6_NJEsC:
-    citations: 25
+    citations: 27
     title: 'Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels'
     year: '2020'
   JUdMRGcAAAAJ:v_tt_AnqfNMC:
