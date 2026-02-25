@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-25'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 81
@@ -10,7 +10,7 @@ papers:
     title: Invariant representations to prepare for content based image retrieval from first principles
     year: '2005'
   JUdMRGcAAAAJ:0ngZmJvimKcC:
-    citations: 41
+    citations: 42
     title: 'AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift'
     year: '2022'
   JUdMRGcAAAAJ:0sTkTiv_uMkC:
@@ -30,7 +30,7 @@ papers:
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
-    citations: 383
+    citations: 385
     title: 'On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location'
     year: '2020'
   JUdMRGcAAAAJ:3BvdIg-l-ZAC:
@@ -118,7 +118,7 @@ papers:
     title: Are current long-term video understanding datasets long-term?
     year: '2023'
   JUdMRGcAAAAJ:9DLIHnF0jcYC:
-    citations: 197
+    citations: 199
     title: Nature Conservation Drones for Automatic Localization and Counting of Animals
     year: '2014'
   JUdMRGcAAAAJ:9LpHyFPp1DQC:
@@ -190,7 +190,7 @@ papers:
     title: Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI
     year: '2023'
   JUdMRGcAAAAJ:GYcXSSpN504C:
-    citations: 96
+    citations: 97
     title: Real-Time Webcam Heart-Rate and Variability Estimation with Clean Ground Truth for Evaluation
     year: '2020'
   JUdMRGcAAAAJ:Gb6Hms-Uo9kC:
@@ -302,7 +302,7 @@ papers:
     title: 'SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity'
     year: '2023'
   JUdMRGcAAAAJ:PVqtIyvKoSUC:
-    citations: 10
+    citations: 11
     title: 'LAB: Learnable Activation Binarizer for Binary Neural Networks'
     year: '2023'
   JUdMRGcAAAAJ:PlWzFYVEG4EC:
@@ -406,7 +406,7 @@ papers:
     title: What do 15,000 object categories tell us about classifying and localizing actions?
     year: '2015'
   JUdMRGcAAAAJ:Vztgr1qGG8IC:
-    citations: 11
+    citations: 12
     title: 'Objects do not disappear: Video object detection by single-frame object location anticipation'
     year: '2023'
   JUdMRGcAAAAJ:W2uZP3ddy8sC:
@@ -610,7 +610,7 @@ papers:
     title: Non-Destructive Infield Quality Estimation of Strawberries Using Deep Architectures
     year: '2023'
   JUdMRGcAAAAJ:j5aT6aphRxQC:
-    citations: 28
+    citations: 29
     title: Differentiable Transportation Pruning
     year: '2023'
   JUdMRGcAAAAJ:jlhcAiayVhoC:
@@ -698,7 +698,7 @@ papers:
     title: Hallucination In Object Detection--A Study In Visual Part Verification
     year: '2021'
   JUdMRGcAAAAJ:q1zXlPLtbUIC:
-    citations: 23
+    citations: 24
     title: A step towards understanding why classification helps regression
     year: '2023'
   JUdMRGcAAAAJ:qCpRzq7zkD8C:
@@ -722,7 +722,7 @@ papers:
     title: Merl--A Mitsubishi Electric Research Laboratory
     year: Unknown Year
   JUdMRGcAAAAJ:rCNdntzdTkkC:
-    citations: 149
+    citations: 150
     title: Structured receptive fields in cnns
     year: '2016'
   JUdMRGcAAAAJ:rFyVMFCKTwsC:
@@ -778,7 +778,7 @@ papers:
     title: Explainability of Deep Learning models for Urban Space perception
     year: '2022'
   JUdMRGcAAAAJ:u5HHmVD_uO8C:
-    citations: 794
+    citations: 795
     title: The challenge problem for automated detection of 101 semantic concepts in multimedia
     year: '2006'
   JUdMRGcAAAAJ:uAPFzskPt0AC:
@@ -786,7 +786,7 @@ papers:
     title: 'Deep vanishing point detection: Geometric priors make dataset variations vanish'
     year: '2022'
   JUdMRGcAAAAJ:uUvzmPk0f8oC:
-    citations: 24
+    citations: 25
     title: 'VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges'
     year: '2021'
   JUdMRGcAAAAJ:ufrVoPGSRksC:
