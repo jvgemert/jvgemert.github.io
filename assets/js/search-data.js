@@ -796,4 +796,13 @@ ninja.data = [{
           section: "News",},{id: "news-talk-at-the-autoriteit-persoonsgegevens-dutch-data-protection-authority-in-the-hague-giving-an-technical-introduction-to-deep-learning",
           title: 'Talk. At the Autoriteit Persoonsgegevens (Dutch Data Protection Authority) in The Hague; giving...',
           description: "",
+          section: "News",},{id: "news-reviewer-i-am-reviewing-for-cvpr-26",
+          title: 'Reviewer. I am reviewing for CVPR’26.',
+          description: "",
+          section: "News",},{id: "news-committee-member-i-am-taking-part-in-the-hestia-impulse-for-refugees-in-science",
+          title: 'Committee member. I am taking part in the Hestia - Impulse for Refugees...',
+          description: "",
+          section: "News",},{id: "news-reviewer-i-am-reviewing-for-the-erc-grant",
+          title: 'Reviewer. I am reviewing for the ERC grant.',
+          description: "",
           section: "News",},];
