@@ -805,4 +805,7 @@ ninja.data = [{
           section: "News",},{id: "news-reviewer-i-am-reviewing-for-the-erc-grant",
           title: 'Reviewer. I am reviewing for the ERC grant.',
           description: "",
+          section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-dr-f-de-putter-technical-university-eindhoven-tue",
+          title: 'PhD Committee. For the PhD defense of Dr. F. de Putter, Technical University...',
+          description: "",
           section: "News",},];
