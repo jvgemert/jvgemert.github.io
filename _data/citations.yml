@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-08'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 82
@@ -30,7 +30,7 @@ papers:
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
-    citations: 391
+    citations: 392
     title: 'On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location'
     year: '2020'
   JUdMRGcAAAAJ:3BvdIg-l-ZAC:
@@ -118,7 +118,7 @@ papers:
     title: Are current long-term video understanding datasets long-term?
     year: '2023'
   JUdMRGcAAAAJ:9DLIHnF0jcYC:
-    citations: 203
+    citations: 204
     title: Nature Conservation Drones for Automatic Localization and Counting of Animals
     year: '2014'
   JUdMRGcAAAAJ:9LpHyFPp1DQC:
@@ -178,7 +178,7 @@ papers:
     title: 'Spot on: Action localization from pointly-supervised proposals'
     year: '2016'
   JUdMRGcAAAAJ:Ej9njvOgR2oC:
-    citations: 24
+    citations: 25
     title: 'ReproducedPapers.org: Openly teaching and structuring machine learning reproducibility'
     year: '2020'
   JUdMRGcAAAAJ:FsLZdJ3BAzkC:
@@ -218,7 +218,7 @@ papers:
     title: Emotional valence categorization using holistic image features
     year: '2008'
   JUdMRGcAAAAJ:J3LtWjKFLicC:
-    citations: 112
+    citations: 113
     title: Deep Hough-Transform Line Priors
     year: '2020'
   JUdMRGcAAAAJ:JH5k92_tO-AC:
@@ -298,11 +298,11 @@ papers:
     title: End-to-End Chess Recognition
     year: '2024'
   JUdMRGcAAAAJ:Oo1CbQkBAzEC:
-    citations: 14
+    citations: 15
     title: 'SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity'
     year: '2023'
   JUdMRGcAAAAJ:PVqtIyvKoSUC:
-    citations: 12
+    citations: 13
     title: 'LAB: Learnable Activation Binarizer for Binary Neural Networks'
     year: '2023'
   JUdMRGcAAAAJ:PlWzFYVEG4EC:
@@ -358,7 +358,7 @@ papers:
     title: Humans disagree with the IoU for measuring object detector localization error
     year: '2022'
   JUdMRGcAAAAJ:T8_be82Iz5gC:
-    citations: 2
+    citations: 3
     title: 'Learn & drop: fast learning of cnns based on layer dropping'
     year: '2024'
   JUdMRGcAAAAJ:TesyEGJKHF4C:
@@ -434,7 +434,7 @@ papers:
     title: MediaMill
     year: '2005'
   JUdMRGcAAAAJ:XAp-VaTZjjwC:
-    citations: 31
+    citations: 32
     title: Spectral Leakage and Rethinking the Kernel Size in CNNs
     year: '2021'
   JUdMRGcAAAAJ:XDrR66g3YHsC:
@@ -526,7 +526,7 @@ papers:
     title: Is there progress in activity progress prediction?
     year: '2023'
   JUdMRGcAAAAJ:d1gkVwhDpl0C:
-    citations: 804
+    citations: 805
     title: Kernel codebooks for scene categorization
     year: '2008'
   JUdMRGcAAAAJ:d4tt_xEv1X8C:
@@ -622,7 +622,7 @@ papers:
     title: Data-efficient gan for synthetic samples of rare classes
     year: '2021'
   JUdMRGcAAAAJ:kUhpeDhEZMUC:
-    citations: 63
+    citations: 64
     title: Efficient real-time camera based estimation of heart rate and its variability
     year: '2019'
   JUdMRGcAAAAJ:l6Q3WhenKVUC:
@@ -662,7 +662,7 @@ papers:
     title: 'BING3D: Fast Spatio-Temporal Proposals for Action Localization'
     year: '2015'
   JUdMRGcAAAAJ:oYLFIHfuHKwC:
-    citations: 7
+    citations: 8
     title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
@@ -758,7 +758,7 @@ papers:
     title: 'PUNet: Temporal Action Proposal Generation With Positive Unlabeled Learning Using Key Frame Annotations'
     year: '2021'
   JUdMRGcAAAAJ:sgsej9ZJWHMC:
-    citations: 32
+    citations: 33
     title: Towards Single Camera Human 3D-Kinematics
     year: '2022'
   JUdMRGcAAAAJ:tBlTYpvFGQIC:
@@ -809,6 +809,10 @@ papers:
     citations: 6
     title: 'Top-Down Networks: A coarse-to-fine reimagination of CNNs'
     year: '2020'
+  JUdMRGcAAAAJ:vxA22ZmNLkoC:
+    citations: 0
+    title: 'Rare-Aware Autoencoding: Reconstructing Spatially Imbalanced Data'
+    year: '2026'
   JUdMRGcAAAAJ:w2UhwfzvF0QC:
     citations: 0
     title: Mediamill/University of Amsterdam worring@ science. uva. nl, http://www. science. uva. nlr worring 2 Department of Business Informatics, Free University Amsterdam
@@ -826,7 +830,7 @@ papers:
     title: Scale Learning in Scale-Equivariant Convolutional Networks
     year: '2024'
   JUdMRGcAAAAJ:wyM6WWKXmoIC:
-    citations: 40
+    citations: 41
     title: Hand-tremor frequency estimation in videos
     year: '2018'
   JUdMRGcAAAAJ:x21FZCSn4ZoC:
