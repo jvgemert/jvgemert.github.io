@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-15'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 82
@@ -38,7 +38,7 @@ papers:
     title: Urban Change Detection Based on Remote Sensing Data
     year: '2024'
   JUdMRGcAAAAJ:3MwzVuqRcA0C:
-    citations: 26
+    citations: 27
     title: 'MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes'
     year: '2024'
   JUdMRGcAAAAJ:3_LpOwP6eMYC:
@@ -146,7 +146,7 @@ papers:
     title: The MediaMill trecvid 2005 semantic video engine
     year: '2005'
   JUdMRGcAAAAJ:BJtnxTr0fRcC:
-    citations: 36
+    citations: 37
     title: Assessment of Parkinson's Disease Severity from Videos using Deep Architecture
     year: '2021'
   JUdMRGcAAAAJ:C-Rn0OCouf8C:
@@ -210,7 +210,7 @@ papers:
     title: 'Push for Quantization: Deep Fisher Hashing'
     year: '2019'
   JUdMRGcAAAAJ:I8rxH6phXEkC:
-    citations: 142
+    citations: 143
     title: Video Acceleration Magnification
     year: '2017'
   JUdMRGcAAAAJ:IjCSPb-OGe4C:
@@ -286,7 +286,7 @@ papers:
     title: Robustifying descriptor instability using fisher vectors
     year: '2014'
   JUdMRGcAAAAJ:NU-BerS4NX4C:
-    citations: 7
+    citations: 8
     title: End-to-End Implicit Neural Representations for Classification
     year: '2025'
   JUdMRGcAAAAJ:NtGNdKbuCngC:
@@ -434,7 +434,7 @@ papers:
     title: MediaMill
     year: '2005'
   JUdMRGcAAAAJ:XAp-VaTZjjwC:
-    citations: 32
+    citations: 33
     title: Spectral Leakage and Rethinking the Kernel Size in CNNs
     year: '2021'
   JUdMRGcAAAAJ:XDrR66g3YHsC:
@@ -538,7 +538,7 @@ papers:
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 120
+    citations: 121
     title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
@@ -570,7 +570,7 @@ papers:
     title: Deep Unsupervised Image Hashing by Maximizing Bit Entropy
     year: '2021'
   JUdMRGcAAAAJ:hFOr9nPyWt4C:
-    citations: 191
+    citations: 192
     title: 'The Rijksmuseum Challenge: Museum-Centered Visual Recognition'
     year: '2014'
   JUdMRGcAAAAJ:hNSvKAmkeYkC:
@@ -662,7 +662,7 @@ papers:
     title: 'BING3D: Fast Spatio-Temporal Proposals for Action Localization'
     year: '2015'
   JUdMRGcAAAAJ:oYLFIHfuHKwC:
-    citations: 8
+    citations: 9
     title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
@@ -794,7 +794,7 @@ papers:
     title: 'MediaMill: Video Search using a Thesaurus of 500 Machine Learned Concepts.'
     year: '2006'
   JUdMRGcAAAAJ:ukw-9cB-YDkC:
-    citations: 28
+    citations: 29
     title: Seismic inversion with deep learning
     year: '2021'
   JUdMRGcAAAAJ:vVJNg6_NJEsC:
@@ -830,7 +830,7 @@ papers:
     title: Scale Learning in Scale-Equivariant Convolutional Networks
     year: '2024'
   JUdMRGcAAAAJ:wyM6WWKXmoIC:
-    citations: 41
+    citations: 43
     title: Hand-tremor frequency estimation in videos
     year: '2018'
   JUdMRGcAAAAJ:x21FZCSn4ZoC:
