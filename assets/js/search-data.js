@@ -808,4 +808,7 @@ ninja.data = [{
           section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-dr-f-de-putter-technical-university-eindhoven-tue",
           title: 'PhD Committee. For the PhD defense of Dr. F. de Putter, Technical University...',
           description: "",
+          section: "News",},{id: "news-committee-member-i-am-taking-part-in-the-for-the-eu-commission-experts-for-forum-on-frontier-ai-trying-to-argue-for-research-on-data-efficient-deep-learning-using-less-data-for-good-ai",
+          title: 'Committee member. I am taking part in the for the EU Commission experts...',
+          description: "",
           section: "News",},];
