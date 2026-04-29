@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-04-29'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 82
@@ -10,7 +10,7 @@ papers:
     title: Invariant representations to prepare for content based image retrieval from first principles
     year: '2005'
   JUdMRGcAAAAJ:0ngZmJvimKcC:
-    citations: 50
+    citations: 51
     title: 'AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift'
     year: '2022'
   JUdMRGcAAAAJ:0sTkTiv_uMkC:
@@ -30,7 +30,7 @@ papers:
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
-    citations: 394
+    citations: 395
     title: 'On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location'
     year: '2020'
   JUdMRGcAAAAJ:3BvdIg-l-ZAC:
@@ -38,7 +38,7 @@ papers:
     title: Urban Change Detection Based on Remote Sensing Data
     year: '2024'
   JUdMRGcAAAAJ:3MwzVuqRcA0C:
-    citations: 27
+    citations: 28
     title: 'MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes'
     year: '2024'
   JUdMRGcAAAAJ:3_LpOwP6eMYC:
@@ -201,6 +201,10 @@ papers:
     citations: 0
     title: Con-Text
     year: '2017'
+  JUdMRGcAAAAJ:GiYFt9mpioMC:
+    citations: 0
+    title: Identifying Ethical Biases in Action Recognition Models
+    year: '2026'
   JUdMRGcAAAAJ:Gpwnp1kGG20C:
     citations: 0
     title: Research guidelines in Deep Learning
@@ -234,7 +238,7 @@ papers:
     title: On Sensitive Minima in Margin-Based Deep Distance Learning
     year: '2020'
   JUdMRGcAAAAJ:KS-xo-ZNxMsC:
-    citations: 185
+    citations: 187
     title: 'Objects2action: Classifying and localizing actions without any video example'
     year: '2015'
   JUdMRGcAAAAJ:KTwcwpFFj4wC:
@@ -302,7 +306,7 @@ papers:
     title: Local Attention Transformers for High-Detail Optical Flow Upsampling
     year: '2024'
   JUdMRGcAAAAJ:Nw_I7GeUguwC:
-    citations: 9
+    citations: 10
     title: End-to-End Chess Recognition
     year: '2024'
   JUdMRGcAAAAJ:Oo1CbQkBAzEC:
@@ -538,7 +542,7 @@ papers:
     title: Kernel codebooks for scene categorization
     year: '2008'
   JUdMRGcAAAAJ:d4tt_xEv1X8C:
-    citations: 10
+    citations: 11
     title: Using and abusing equivariance
     year: '2023'
   JUdMRGcAAAAJ:dhFuZR0502QC:
@@ -546,7 +550,7 @@ papers:
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 123
+    citations: 125
     title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
