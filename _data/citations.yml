@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-18'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 82
@@ -10,15 +10,15 @@ papers:
     title: Invariant representations to prepare for content based image retrieval from first principles
     year: '2005'
   JUdMRGcAAAAJ:0ngZmJvimKcC:
-    citations: 52
+    citations: 53
     title: 'AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift'
     year: '2022'
   JUdMRGcAAAAJ:0sTkTiv_uMkC:
-    citations: 40
+    citations: 39
     title: Efficiency in Real-time Webcam Gaze Tracking
     year: '2020'
   JUdMRGcAAAAJ:17ZO-CJnx_8C:
-    citations: 15
+    citations: 16
     title: Color Equivariant Convolutional Networks
     year: '2023'
   JUdMRGcAAAAJ:1EqfMoDn7-AC:
@@ -30,7 +30,7 @@ papers:
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
-    citations: 396
+    citations: 397
     title: 'On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location'
     year: '2020'
   JUdMRGcAAAAJ:3BvdIg-l-ZAC:
@@ -38,7 +38,7 @@ papers:
     title: Urban Change Detection Based on Remote Sensing Data
     year: '2024'
   JUdMRGcAAAAJ:3MwzVuqRcA0C:
-    citations: 28
+    citations: 29
     title: 'MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes'
     year: '2024'
   JUdMRGcAAAAJ:3_LpOwP6eMYC:
@@ -102,7 +102,7 @@ papers:
     title: 'Featureless: Bypassing feature extraction in action categorization'
     year: '2016'
   JUdMRGcAAAAJ:7PzlFSSx8tAC:
-    citations: 82
+    citations: 83
     title: Automatic Egyptian Hieroglyph Recognition by Retrieving Images as Texts
     year: '2013'
   JUdMRGcAAAAJ:7VEv-pLvLSsC:
@@ -118,7 +118,7 @@ papers:
     title: Are current long-term video understanding datasets long-term?
     year: '2023'
   JUdMRGcAAAAJ:9DLIHnF0jcYC:
-    citations: 204
+    citations: 205
     title: Nature Conservation Drones for Automatic Localization and Counting of Animals
     year: '2014'
   JUdMRGcAAAAJ:9LpHyFPp1DQC:
@@ -134,7 +134,7 @@ papers:
     title: Sight-Seeing in the Eyes of Deep Neural Networks
     year: '2018'
   JUdMRGcAAAAJ:9yKSN-GCB0IC:
-    citations: 993
+    citations: 994
     title: Visual word ambiguity
     year: '2010'
   JUdMRGcAAAAJ:AFXcoJnoRH0C:
@@ -190,11 +190,11 @@ papers:
     title: Content-Aware Image Resizing for Faster Object Detection on Aerial Imagery
     year: '2016'
   JUdMRGcAAAAJ:G36d5HCDkJYC:
-    citations: 6
+    citations: 8
     title: Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI
     year: '2023'
   JUdMRGcAAAAJ:GYcXSSpN504C:
-    citations: 97
+    citations: 98
     title: Real-Time Webcam Heart-Rate and Variability Estimation with Clean Ground Truth for Evaluation
     year: '2020'
   JUdMRGcAAAAJ:Gb6Hms-Uo9kC:
@@ -222,7 +222,7 @@ papers:
     title: Video Acceleration Magnification
     year: '2017'
   JUdMRGcAAAAJ:IjCSPb-OGe4C:
-    citations: 269
+    citations: 270
     title: Emotional valence categorization using holistic image features
     year: '2008'
   JUdMRGcAAAAJ:J3LtWjKFLicC:
@@ -301,6 +301,10 @@ papers:
     citations: 9
     title: End-to-End Implicit Neural Representations for Classification
     year: '2025'
+  JUdMRGcAAAAJ:Nnq8S6OXqDYC:
+    citations: 0
+    title: ACCESSING VIDEO ARCHIVES USING INTERACTIVE SEARCH
+    year: Unknown Year
   JUdMRGcAAAAJ:NtGNdKbuCngC:
     citations: 0
     title: Local Attention Transformers for High-Detail Optical Flow Upsampling
@@ -366,7 +370,7 @@ papers:
     title: "Spectral Leakage and Rethinking the Kernel Size in CNNs\u2013Supplementary material\u2013"
     year: Unknown Year
   JUdMRGcAAAAJ:SrKkpNFED5gC:
-    citations: 7
+    citations: 8
     title: Humans disagree with the IoU for measuring object detector localization error
     year: '2022'
   JUdMRGcAAAAJ:T8_be82Iz5gC:
@@ -402,7 +406,7 @@ papers:
     title: Practical tutorial for using corba
     year: '2000'
   JUdMRGcAAAAJ:VRfTbSk87rEC:
-    citations: 140
+    citations: 141
     title: 'ViDeNN: Deep Blind Video Denoising'
     year: '2019'
   JUdMRGcAAAAJ:V_vSwabWVtYC:
@@ -466,7 +470,7 @@ papers:
     title: 'DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks'
     year: '2017'
   JUdMRGcAAAAJ:YsMSGLbcyi4C:
-    citations: 5
+    citations: 6
     title: Interactive Search Using Indexing, Filtering, Browsing and Ranking.
     year: '2003'
   JUdMRGcAAAAJ:ZeXyd9-uunAC:
@@ -514,7 +518,7 @@ papers:
     title: Per-patch Descriptor Selection using Surface and Scene Properties
     year: '2012'
   JUdMRGcAAAAJ:bVQMTfhMCi4C:
-    citations: 67
+    citations: 68
     title: One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network
     year: '2017'
   JUdMRGcAAAAJ:c1AJUTjuCtUC:
@@ -530,7 +534,7 @@ papers:
     title: Performance analysis of Simultaneous Localization and Mapping to reconstruct aircraft engines in 3D
     year: Unknown Year
   JUdMRGcAAAAJ:cNe27ouKFcQC:
-    citations: 119
+    citations: 120
     title: 'FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes'
     year: '2021'
   JUdMRGcAAAAJ:cRMvf6lLvU8C:
@@ -538,7 +542,7 @@ papers:
     title: Is there progress in activity progress prediction?
     year: '2023'
   JUdMRGcAAAAJ:d1gkVwhDpl0C:
-    citations: 805
+    citations: 806
     title: Kernel codebooks for scene categorization
     year: '2008'
   JUdMRGcAAAAJ:d4tt_xEv1X8C:
@@ -550,7 +554,7 @@ papers:
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 126
+    citations: 128
     title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
@@ -578,7 +582,7 @@ papers:
     title: Evaluating Structure-from-Motion on shiny and non-textured surfaces in borescope videos
     year: Unknown Year
   JUdMRGcAAAAJ:h168fVGZblEC:
-    citations: 139
+    citations: 140
     title: Deep Unsupervised Image Hashing by Maximizing Bit Entropy
     year: '2021'
   JUdMRGcAAAAJ:hFOr9nPyWt4C:
@@ -622,7 +626,7 @@ papers:
     title: 'The ArchiMediaL Project: Opening up the Architectural Heritage in Repositories and Image Databases'
     year: '2017'
   JUdMRGcAAAAJ:inmFHauC9wsC:
-    citations: 1
+    citations: 2
     title: Non-Destructive Infield Quality Estimation of Strawberries Using Deep Architectures
     year: '2023'
   JUdMRGcAAAAJ:j5aT6aphRxQC:
@@ -658,7 +662,7 @@ papers:
     title: 'Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting'
     year: '2015'
   JUdMRGcAAAAJ:mB3voiENLucC:
-    citations: 329
+    citations: 330
     title: Action localization with tubelets from motion
     year: '2014'
   JUdMRGcAAAAJ:mVmsd5A6BfQC:
@@ -678,7 +682,7 @@ papers:
     title: 'BING3D: Fast Spatio-Temporal Proposals for Action Localization'
     year: '2015'
   JUdMRGcAAAAJ:oYLFIHfuHKwC:
-    citations: 10
+    citations: 11
     title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
@@ -714,7 +718,7 @@ papers:
     title: Hallucination In Object Detection--A Study In Visual Part Verification
     year: '2021'
   JUdMRGcAAAAJ:q1zXlPLtbUIC:
-    citations: 24
+    citations: 26
     title: A step towards understanding why classification helps regression
     year: '2023'
   JUdMRGcAAAAJ:qCpRzq7zkD8C:
@@ -746,7 +750,7 @@ papers:
     title: Aligning Object Detector Bounding Boxes with Human Preference
     year: '2024'
   JUdMRGcAAAAJ:rLGzs9wiiwIC:
-    citations: 88
+    citations: 89
     title: 'Divide and count: Generic object counting by image divisions'
     year: '2018'
   JUdMRGcAAAAJ:rOcdG6UcVlcC:
@@ -774,7 +778,7 @@ papers:
     title: 'PUNet: Temporal Action Proposal Generation With Positive Unlabeled Learning Using Key Frame Annotations'
     year: '2021'
   JUdMRGcAAAAJ:sgsej9ZJWHMC:
-    citations: 33
+    citations: 34
     title: Towards Single Camera Human 3D-Kinematics
     year: '2022'
   JUdMRGcAAAAJ:tBlTYpvFGQIC:
@@ -790,11 +794,11 @@ papers:
     title: Searching Scenes by Abstracting Things
     year: '2016'
   JUdMRGcAAAAJ:u3T1itk59dMC:
-    citations: 12
+    citations: 13
     title: Explainability of Deep Learning models for Urban Space perception
     year: '2022'
   JUdMRGcAAAAJ:u5HHmVD_uO8C:
-    citations: 800
+    citations: 802
     title: The challenge problem for automated detection of 101 semantic concepts in multimedia
     year: '2006'
   JUdMRGcAAAAJ:uAPFzskPt0AC:
@@ -822,7 +826,7 @@ papers:
     title: 'Heuristics2Annotate: Efficient Annotation of Large-Scale Marathon Dataset For Bounding Box Regression'
     year: '2021'
   JUdMRGcAAAAJ:vnF2_uLGgtgC:
-    citations: 6
+    citations: 7
     title: 'Top-Down Networks: A coarse-to-fine reimagination of CNNs'
     year: '2020'
   JUdMRGcAAAAJ:w2UhwfzvF0QC:
@@ -854,7 +858,7 @@ papers:
     title: Image matching on a mobile device
     year: Unknown Year
   JUdMRGcAAAAJ:xm0LlTxljI0C:
-    citations: 15
+    citations: 16
     title: Exploring the Long Tail of Social Media Tags
     year: '2016'
   JUdMRGcAAAAJ:xyvS_IvSCKsC:
