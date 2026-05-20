@@ -811,4 +811,7 @@ ninja.data = [{
           section: "News",},{id: "news-committee-member-i-am-taking-part-in-the-for-the-eu-commission-experts-for-forum-on-frontier-ai-trying-to-argue-for-research-on-data-efficient-deep-learning-using-less-data-for-good-ai",
           title: 'Committee member. I am taking part in the for the EU Commission experts...',
           description: "",
+          section: "News",},{id: "news-award-cvpr-2026-outstanding-reviewer-award",
+          title: 'Award. CVPR 2026: Outstanding reviewer award.',
+          description: "",
           section: "News",},];
