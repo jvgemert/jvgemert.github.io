@@ -33,7 +33,7 @@ For our first meeting, please have a look at the following points and prepare ac
 
 
 
-- **Marunka**: After we had our first meeting: send an email to Marunka van Stight (M.vanStight@tudelft.nl) to let her know your starting date and that you will start your MSc thesis with me and ask her for an account on our [GPU cluster](https://doc.daic.tudelft.nl/).
+- **Marunka**: After we had our first meeting: send an email to Marunka van Stight (M.vanStight@tudelft.nl) to let her know your starting date and that you will start your MSc thesis with me and ask her for an account on our [GPU cluster](https://daic.tudelft.nl/).
 
 
 - **Thesis at a company?**: We need to setup a "3 party agreement" about IP etc. Please contact [thesis-eemcs@tudelft.nl](mailto:thesis-eemcs@tudelft.nl/).
@@ -52,7 +52,7 @@ Things to do when you start your thesis:
 - **Mandatory student meetings**:  Every 2 weeks we have scheduled MSc student presentations from the PRB section [schedule](https://docs.google.com/spreadsheets/d/1j1ov95jW9psCeDkZzgeBK7TcH78t_QVVFCh4KwppA6o/). You are required to present a few times. Follow my presentation [guidelines](/links.html) and you have to attend at least 10x, if you cannot make it send an email to Marunka van Stight (M.vanStight@tudelft.nl. The benefit for you is that you can practice your presentation a few times before your final defense and that you get feedback and insight in what others are doing. If you have questions about this, please ask Marunka van Stight (M.vanStight@tudelft.nl)
 
 
-- **GPU cluster**: Please inform yourself about how to use our [compute cluster](https://doc.daic.tudelft.nl/).
+- **GPU cluster**: Please inform yourself about how to use our [compute cluster](https://daic.tudelft.nl/).
 
 - **Cluster folder**:  On the cluster, please create a folder with your name in "`/tudelft.net/staff-umbrella/StudentsCVlab/`" and use it for your experiments; this is not a safe place to store original source code: Make sure all important code is backed up in your git. Please avoid using many small files, as this slows down access and clogs the file system (limited nr of inodes: Consider using [HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format/)). Check for common datasets in "`/tudelft.net/staff-bulk/ewi/insy/CV-DataSets`". If you use conda, do "`conda clean --all`" after installing.  Please regularly remove things you no longer need.
 
