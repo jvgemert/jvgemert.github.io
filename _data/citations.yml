@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-22'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
     citations: 82
@@ -26,7 +26,7 @@ papers:
     title: Performance analysis of interest point detection/matching on shiny and non-textured surfaces
     year: Unknown Year
   JUdMRGcAAAAJ:2osOgNQ5qMEC:
-    citations: 130
+    citations: 131
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
@@ -182,7 +182,7 @@ papers:
     title: 'Spot on: Action localization from pointly-supervised proposals'
     year: '2016'
   JUdMRGcAAAAJ:Ej9njvOgR2oC:
-    citations: 26
+    citations: 27
     title: 'ReproducedPapers.org: Openly teaching and structuring machine learning reproducibility'
     year: '2020'
   JUdMRGcAAAAJ:FsLZdJ3BAzkC:
@@ -798,7 +798,7 @@ papers:
     title: Explainability of Deep Learning models for Urban Space perception
     year: '2022'
   JUdMRGcAAAAJ:u5HHmVD_uO8C:
-    citations: 802
+    citations: 803
     title: The challenge problem for automated detection of 101 semantic concepts in multimedia
     year: '2006'
   JUdMRGcAAAAJ:uAPFzskPt0AC:
@@ -870,7 +870,7 @@ papers:
     title: Using phase instead of optical flow for action recognition
     year: '2019'
   JUdMRGcAAAAJ:yeL6HyUMUGUC:
-    citations: 54
+    citations: 55
     title: Active Decision Boundary Annotation with Deep Generative Models
     year: '2017'
   JUdMRGcAAAAJ:ymY9cBF3mdcC:
