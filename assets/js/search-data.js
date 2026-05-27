@@ -814,4 +814,7 @@ ninja.data = [{
           section: "News",},{id: "news-award-cvpr-2026-outstanding-reviewer-award",
           title: 'Award. CVPR 2026: Outstanding reviewer award.',
           description: "",
+          section: "News",},{id: "news-keynote-at-the-find-workshop-on-fundamental-research-and-data-efficiency-in-foundation-models",
+          title: 'Keynote. At the FIND workshop on “fundamental research and data-efficiency in foundation models”....',
+          description: "",
           section: "News",},];
