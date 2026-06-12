@@ -13,7 +13,8 @@ I try to give MSc students a sense of doing real, cutting edge research and I ha
 I exclusively supervise MSc thesis topics on visual data (images, video), and I do fundamental research, which means that I focus on understanding underlying concepts and a bit less on specific applications.
 
 
-***
+---
+
 
 ### First meeting.
 For our first meeting, please have a look at the following points and prepare accordingly:
@@ -61,7 +62,12 @@ Things to do when you start your thesis:
 
 - **Committee**: If you haven't yet: Please submit the "`Thesis Committee form`" as soon as possible, where we add an EWI faculty member. This has to be an 'external' EWI faculty member, ie: outside of the PRB group (see "first meeting").
 
-***
+
+<p/>
+
+---
+
+<p/>
 
 ### During your thesis.
 Things to keep in mind when you are doing your thesis research (remember to go back to this page during your thesis):
@@ -92,13 +98,20 @@ Things to keep in mind when you are doing your thesis research (remember to go b
 
 - **Training**: Are you training deep networks? Here is a [diy teaching library](https://minitorch.github.io/). Significant time, unfortunately, goes to tuning hyper-parameters, please be prepared to follow [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
+- **Nr of epochs**: I often advise to use [early stopping](https://www.geeksforgeeks.org/machine-learning/regularization-by-early-stopping/) when training and comparing different models. The number of update steps is just a hyper-parameter that should be optimized per model, and there is no reason for the number of update steps to be the same for different models. More updates is not neccesarily better (overfitting) and different models may behave differently, so, it's fine if different models use a different number of epochs. Only in the special case where the *research topic* involves the number of update steps then it is no longer a hyper-parameter, but a variable of interest, and then it can be kept fixed.
+
+
+- **Experiments**: Are doing experiments? Nearly always I will ask to report standard deviations to marginalize over irrelevent variables. Often, such variables are controlled by setting a different random seed, changing the sampling of the train/val/test data; the weight init, the ordering in the batches, etc.
 
 
 - **Writing support**: Check the [TU Delft Writing Centre](http://www.tudelft.nl/writingcentre) for free writing coaching for Bachelor, Master and PhD students.
 
 
 
-***
+<p>&nbsp;</p>
+
+---
+
 
 ### Thesis report.
 The core of your MSc Thesis report is a scientific article so that: 1. you learn how to write a scientific article, 2. we can see if you can separate core from detail; and 3. that the research is easy to submit for publication (if the work lends itself for that).
@@ -115,6 +128,7 @@ This means your thesis report will need three parts:
 - **Part 3: Scientific article**:  Preferably in double column CVPR-style Latex format. This is written in the same style as a publication in the field.
 
 
+The thesis should contain a statement about the use of LLMs/AI where you state *if*, *how* and *what for* it was used. It's fine to use it, responsibly. In the end you remain responsible for the text.
 
 
 For the writing: follow my [writing guidelines](/writing.pdf). Here are some example MSc theses done in this format (some have the background as part 3; but it's clearer to have the background as part 2 and the article as part 3):  [Example](https://repository.tudelft.nl/record/uuid:db7d70ad-d6b5-42cb-82bb-0f4851dc57cf/), [Example](https://repository.tudelft.nl/record/uuid:67e789e4-b51c-4254-84a1-8c8e8653de5f/), [Example](https://repository.tudelft.nl/record/uuid:189bdb4f-ff47-4249-bab2-a40b63616565/), [Example](https://repository.tudelft.nl/record/uuid:7c94e4f1-f2a7-4d32-9bcc-3695d2be0b87/).
@@ -122,7 +136,12 @@ For the writing: follow my [writing guidelines](/writing.pdf). Here are some exa
 
 Make sure that your thesis answers the questions that are typically asked in a thesis defense (see below).
 
-***
+
+
+<p>&nbsp;</p>
+
+---
+
 
 ### Defense.
 The formal requirements (forms, timeline, green-light moment, etc.) vary per faculty. You are responsible for managing these requirements. Please reserve a room for 2 hours to have the defense.
