@@ -16,8 +16,7 @@ I do not believe in rigid rules, yet, I do have a set of guiding principles. My 
 *   [Writing](/writing.pdf). Common writing pitfals. Please check these writing guidelines before asking for my feedback :sweat_smile:.
 *   [The storyline](storyline.pdf). The beating heart of empirical understanding-based deep learning research. See also this [storyline visualization](storyline-fig.pdf).
 *   [Research meetings](/meetings.pdf). How to organize research meetings and make the most of your time with your advisor.
-*   [Presentations](/presentation.pdf). Guidelines and common presentation pitfals.
-*   [Posters](/poster.pdf). Guidelines and common presentation pitfals.
+*   [Presentations](/presentation.pdf) and  [Posters](/poster.pdf). Guidelines and common presentation pitfals.
 *   [Reviewing and rebuttals](reviewRebut.pdf); on reviewing and writing a rebuttal/response answer to a review. Here are some examples of such a rebuttal: [Example 1](assets/pdf/rebuttalExample1.pdf), [Example 2](assets/pdf/rebuttalExample2.pdf), [Example 3](assets/pdf/rebuttalExample3.pdf).
 
 <p/>
