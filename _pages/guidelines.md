@@ -12,7 +12,7 @@ nav_order: 3
 
 I do not believe in rigid rules, yet, I do have a set of guiding principles. My collected [research guidelines](/ResearchGuidelinesInDL.pdf) contain several parts about doing research. They involve: research organization, writing, the storyline, meetings, presenting, posters, reviews/rebuttals. Please read them, if you are doing research with me. Individual sections are available here:
     
-*   [Research organization](/research.pdf). About organizing the research.
+*   [Research organization](/research.pdf). About the research process and organizing it.
 *   [Writing](/writing.pdf). Common writing pitfals. Please check these writing guidelines before asking for my feedback :sweat_smile:.
 *   [The storyline](storyline.pdf). The beating heart of empirical understanding-based deep learning research. See also this [storyline visualization](storyline-fig.pdf).
 *   [Research meetings](/meetings.pdf). How to organize research meetings and make the most of your time with your advisor.
