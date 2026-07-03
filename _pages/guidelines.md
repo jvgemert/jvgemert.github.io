@@ -14,7 +14,7 @@ I do not believe in rigid rules, yet, I do have a set of guiding principles. My 
     
 *   [Research organization](/research.pdf). About the research process and organizing it.
 *   [Writing](/writing.pdf). Common writing pitfals. Please check these writing guidelines before asking for my feedback :sweat_smile:.
-*   [The storyline](storyline.pdf). The beating heart of empirical understanding-based deep learning research. See also this [storyline visualization](storyline-fig.pdf).
+*   [The storyline](storyline.pdf) to make empirical evidence explicit in understanding-based deep learning research. See also this [storyline visualization](storyline-fig.pdf) and storyline templates available as a [LaTeX](/assets/pdf/storyline-empty.tex) or [PDF](/assets/pdf/storyline-empty.pdf) file.
 *   [Research meetings](/meetings.pdf). How to organize research meetings and make the most of your time with your advisor.
 *   [Presentations](/presentation.pdf) and  [Posters](/poster.pdf). Guidelines and common presentation pitfals.
 *   [Reviewing and rebuttals](reviewRebut.pdf); on reviewing and writing a rebuttal/response answer to a review. Here are some examples of such a rebuttal: [Example 1](assets/pdf/rebuttalExample1.pdf), [Example 2](assets/pdf/rebuttalExample2.pdf), [Example 3](assets/pdf/rebuttalExample3.pdf).
