@@ -817,4 +817,13 @@ ninja.data = [{
           section: "News",},{id: "news-keynote-at-the-find-workshop-on-fundamental-research-and-data-efficiency-in-foundation-models",
           title: 'Keynote. At the FIND workshop on “fundamental research and data-efficiency in foundation models”....',
           description: "",
+          section: "News",},{id: "news-supervised-phd-graduated-proud-that-dr-robert-jan-bruintjes-graduated",
+          title: 'Supervised PhD graduated. Proud that Dr. Robert-Jan Bruintjes graduated.',
+          description: "",
+          section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-taylan-turan-technical-university-delft-tud",
+          title: 'PhD Committee. For the PhD defense of Taylan Turan, Technical University Delft (TUD)....',
+          description: "",
+          section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-sebastian-krebs-technical-university-delft-tud",
+          title: 'PhD Committee. For the PhD defense of Sebastian Krebs, Technical University Delft (TUD)....',
+          description: "",
           section: "News",},];
