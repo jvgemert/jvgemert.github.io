@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-07'
 papers:
   JUdMRGcAAAAJ:-f6ydRqryjwC:
-    citations: 82
+    citations: 84
     title: Evaluation of color spatio-temporal interest points for human action recognition
     year: '2014'
   JUdMRGcAAAAJ:0EnyYjriUFMC:
@@ -14,11 +14,11 @@ papers:
     title: 'AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift'
     year: '2022'
   JUdMRGcAAAAJ:0sTkTiv_uMkC:
-    citations: 40
+    citations: 43
     title: Efficiency in Real-time Webcam Gaze Tracking
     year: '2020'
   JUdMRGcAAAAJ:17ZO-CJnx_8C:
-    citations: 16
+    citations: 15
     title: Color Equivariant Convolutional Networks
     year: '2023'
   JUdMRGcAAAAJ:1EqfMoDn7-AC:
@@ -26,7 +26,7 @@ papers:
     title: Performance analysis of interest point detection/matching on shiny and non-textured surfaces
     year: Unknown Year
   JUdMRGcAAAAJ:2osOgNQ5qMEC:
-    citations: 131
+    citations: 134
     title: Robust scene categorization by learning image statistics in context
     year: '2006'
   JUdMRGcAAAAJ:3A3nxV7CjKIC:
@@ -38,7 +38,7 @@ papers:
     title: Urban Change Detection Based on Remote Sensing Data
     year: '2024'
   JUdMRGcAAAAJ:3MwzVuqRcA0C:
-    citations: 39
+    citations: 43
     title: 'MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes'
     year: '2024'
   JUdMRGcAAAAJ:3_LpOwP6eMYC:
@@ -70,7 +70,7 @@ papers:
     title: Robust visual scene categorization in context
     year: '2010'
   JUdMRGcAAAAJ:4n0clTBhZ78C:
-    citations: 17
+    citations: 18
     title: 'Equal Bits: Enforcing Equally Distributed Binary Network Weights'
     year: '2021'
   JUdMRGcAAAAJ:5LPo_wSKItgC:
@@ -86,7 +86,7 @@ papers:
     title: 'Respecting Domain Relations: Hypothesis Invariance for Domain Generalization'
     year: '2020'
   JUdMRGcAAAAJ:6VlyvFCUEfcC:
-    citations: 45
+    citations: 46
     title: 'MediaMill at TRECVID 2014: Searching concepts, objects, instances and events in video'
     year: '2014'
   JUdMRGcAAAAJ:6ZzL7HXColQC:
@@ -102,7 +102,7 @@ papers:
     title: 'Featureless: Bypassing feature extraction in action categorization'
     year: '2016'
   JUdMRGcAAAAJ:7PzlFSSx8tAC:
-    citations: 88
+    citations: 84
     title: Automatic Egyptian Hieroglyph Recognition by Retrieving Images as Texts
     year: '2013'
   JUdMRGcAAAAJ:7VEv-pLvLSsC:
@@ -118,15 +118,15 @@ papers:
     title: Are current long-term video understanding datasets long-term?
     year: '2023'
   JUdMRGcAAAAJ:9DLIHnF0jcYC:
-    citations: 206
+    citations: 211
     title: Nature Conservation Drones for Automatic Localization and Counting of Animals
     year: '2014'
   JUdMRGcAAAAJ:9LpHyFPp1DQC:
-    citations: 9
+    citations: 11
     title: 'GazeHTA: End-to-end gaze target detection with head-target association'
     year: '2025'
   JUdMRGcAAAAJ:9NZAP19TdFAC:
-    citations: 15
+    citations: 16
     title: Making a Case for Learning Motion Representations with Phase
     year: '2016'
   JUdMRGcAAAAJ:9shLKfS_uJEC:
@@ -134,7 +134,7 @@ papers:
     title: Sight-Seeing in the Eyes of Deep Neural Networks
     year: '2018'
   JUdMRGcAAAAJ:9yKSN-GCB0IC:
-    citations: 997
+    citations: 1002
     title: Visual word ambiguity
     year: '2010'
   JUdMRGcAAAAJ:AFXcoJnoRH0C:
@@ -146,7 +146,7 @@ papers:
     title: The MediaMill trecvid 2005 semantic video engine
     year: '2005'
   JUdMRGcAAAAJ:BJtnxTr0fRcC:
-    citations: 43
+    citations: 41
     title: Assessment of Parkinson's Disease Severity from Videos using Deep Architecture
     year: '2021'
   JUdMRGcAAAAJ:C-Rn0OCouf8C:
@@ -158,7 +158,7 @@ papers:
     title: 'MuPPet: Multi-person 2D-to-3D Pose Lifting'
     year: '2026'
   JUdMRGcAAAAJ:DIubQTN3OvUC:
-    citations: 6
+    citations: 9
     title: 'CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning'
     year: '2025'
   JUdMRGcAAAAJ:DXE8ND7PrJAC:
@@ -166,7 +166,7 @@ papers:
     title: 'SOURCE (OR PART OF THE FOLLOWING SOURCE): Type PhD thesis Title Robust visual scene categorization in context'
     year: '2010'
   JUdMRGcAAAAJ:DquSII9TDu4C:
-    citations: 14
+    citations: 15
     title: What Affects Learned Equivariance in Deep Image Recognition Models?
     year: '2023'
   JUdMRGcAAAAJ:E7VqQtBCVmcC:
@@ -174,15 +174,15 @@ papers:
     title: 'Less bits is more: How pruning deep binary networks increases weight capacity'
     year: '2020'
   JUdMRGcAAAAJ:EBV337fEn3EC:
-    citations: 12
+    citations: 11
     title: Heart rate estimation in intense exercise videos
     year: '2022'
   JUdMRGcAAAAJ:EaFouW7jFu4C:
-    citations: 136
+    citations: 137
     title: 'Spot on: Action localization from pointly-supervised proposals'
     year: '2016'
   JUdMRGcAAAAJ:Ej9njvOgR2oC:
-    citations: 30
+    citations: 29
     title: 'ReproducedPapers.org: Openly teaching and structuring machine learning reproducibility'
     year: '2020'
   JUdMRGcAAAAJ:FsLZdJ3BAzkC:
@@ -198,7 +198,7 @@ papers:
     title: Motion Representations for Privacy-Aware Cross-Domain Action Recognition
     year: '2026'
   JUdMRGcAAAAJ:GYcXSSpN504C:
-    citations: 101
+    citations: 103
     title: Real-Time Webcam Heart-Rate and Variability Estimation with Clean Ground Truth for Evaluation
     year: '2020'
   JUdMRGcAAAAJ:Gb6Hms-Uo9kC:
@@ -214,7 +214,7 @@ papers:
     title: Research guidelines in Deep Learning
     year: '2024'
   JUdMRGcAAAAJ:H7nrzBkawXsC:
-    citations: 50
+    citations: 49
     title: 'Con-Text: Text Detection for Fine-Grained Object Classification'
     year: '2017'
   JUdMRGcAAAAJ:I858iXPj1OkC:
@@ -226,15 +226,15 @@ papers:
     title: Video Acceleration Magnification
     year: '2017'
   JUdMRGcAAAAJ:IjCSPb-OGe4C:
-    citations: 273
+    citations: 271
     title: Emotional valence categorization using holistic image features
     year: '2008'
   JUdMRGcAAAAJ:J3LtWjKFLicC:
-    citations: 117
+    citations: 119
     title: Deep Hough-Transform Line Priors
     year: '2020'
   JUdMRGcAAAAJ:JH5k92_tO-AC:
-    citations: 8
+    citations: 7
     title: 't-EVA: Time-Efficient t-SNE Video Annotation'
     year: '2020'
   JUdMRGcAAAAJ:KI9T_ytC6pkC:
@@ -242,7 +242,7 @@ papers:
     title: On Sensitive Minima in Margin-Based Deep Distance Learning
     year: '2020'
   JUdMRGcAAAAJ:KS-xo-ZNxMsC:
-    citations: 187
+    citations: 191
     title: 'Objects2action: Classifying and localizing actions without any video example'
     year: '2015'
   JUdMRGcAAAAJ:KTwcwpFFj4wC:
@@ -254,7 +254,7 @@ papers:
     title: Interactive indexing and retrieval of multimedia content
     year: '2002'
   JUdMRGcAAAAJ:Kqc1aDSOPooC:
-    citations: 14
+    citations: 13
     title: Semi-supervised lane detection with Deep Hough Transform
     year: '2021'
   JUdMRGcAAAAJ:L24QuVWYgZ0C:
@@ -278,7 +278,7 @@ papers:
     title: 'ARC: Anchored Representation Clouds for High-Resolution INR Classification'
     year: '2025'
   JUdMRGcAAAAJ:M0leSnx2MbUC:
-    citations: 62
+    citations: 61
     title: University of Amsterdam at THUMOS Challenge 2014
     year: '2014'
   JUdMRGcAAAAJ:M3ejUd6NZC8C:
@@ -286,9 +286,13 @@ papers:
     title: Interactive decision making using dissimilarity to visually represented prototypes
     year: '2011'
   JUdMRGcAAAAJ:MDX3w3dAD3YC:
-    citations: 11
+    citations: 10
     title: 'VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning Challenges'
     year: '2022'
+  JUdMRGcAAAAJ:MGPUR4WVBMEC:
+    citations: 0
+    title: On the Real-World Generalisability of Optical Flow Models
+    year: '2026'
   JUdMRGcAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: Browsing for the national Dutch video archive
@@ -302,9 +306,13 @@ papers:
     title: Robustifying descriptor instability using fisher vectors
     year: '2014'
   JUdMRGcAAAAJ:NU-BerS4NX4C:
-    citations: 10
-    title: End-to-End Implicit Neural Representations for Classification
+    citations: 11
+    title: End-to-end implicit neural representations for classification
     year: '2025'
+  JUdMRGcAAAAJ:NZNkWSpQBv0C:
+    citations: 0
+    title: A speech-in list-out approach to spoken user interfaces
+    year: '2004'
   JUdMRGcAAAAJ:Nnq8S6OXqDYC:
     citations: 0
     title: ACCESSING VIDEO ARCHIVES USING INTERACTIVE SEARCH
@@ -314,11 +322,11 @@ papers:
     title: Local Attention Transformers for High-Detail Optical Flow Upsampling
     year: '2024'
   JUdMRGcAAAAJ:Nw_I7GeUguwC:
-    citations: 11
+    citations: 12
     title: End-to-End Chess Recognition
     year: '2024'
   JUdMRGcAAAAJ:Oo1CbQkBAzEC:
-    citations: 15
+    citations: 17
     title: 'SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity'
     year: '2023'
   JUdMRGcAAAAJ:PVqtIyvKoSUC:
@@ -326,7 +334,7 @@ papers:
     title: 'LAB: Learnable Activation Binarizer for Binary Neural Networks'
     year: '2023'
   JUdMRGcAAAAJ:PlWzFYVEG4EC:
-    citations: 6
+    citations: 5
     title: Shape based classification of seismic building structural types.
     year: '2018'
   JUdMRGcAAAAJ:QIV2ME_5wuYC:
@@ -338,7 +346,7 @@ papers:
     title: Assessing Situational and Spatial Awareness of VLMs with Synthetically Generated Video
     year: '2026'
   JUdMRGcAAAAJ:QaSi33NTfwYC:
-    citations: 12
+    citations: 11
     title: 'Tilting at windmills: Data augmentation for deep pose estimation does not help with occlusions'
     year: '2020'
   JUdMRGcAAAAJ:QsKbpXNoaWkC:
@@ -382,15 +390,15 @@ papers:
     title: 'Learn & drop: fast learning of cnns based on layer dropping'
     year: '2024'
   JUdMRGcAAAAJ:TesyEGJKHF4C:
-    citations: 20
+    citations: 21
     title: 'Vision-based Detection of Acoustic Timed Events: a Case Study on Clarinet Note Onsets'
     year: '2017'
   JUdMRGcAAAAJ:Tfl4UtY-dJUC:
-    citations: 1
+    citations: 2
     title: 'Computer vision and architectural history at eye level: Mixed methods for linking research in the humanities and in information technology (ArchiMediaL)'
     year: '2023'
   JUdMRGcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 10
+    citations: 12
     title: The influence of cross-validation on video classification performance
     year: '2006'
   JUdMRGcAAAAJ:U0iAMwwPxtsC:
@@ -398,11 +406,11 @@ papers:
     title: Visual Content Analysis and Linked Data for Automatic Enrichment of Architecture-Related Images
     year: '2019'
   JUdMRGcAAAAJ:ULOm3_A8WrAC:
-    citations: 59
+    citations: 18
     title: National institute of informatics, japan at trecvid 2008
     year: '2008'
   JUdMRGcAAAAJ:UeHWp8X0CEIC:
-    citations: 94
+    citations: 97
     title: Comparing compact codebooks for visual categorization
     year: '2010'
   JUdMRGcAAAAJ:UebtZRa9Y70C:
@@ -410,7 +418,7 @@ papers:
     title: Practical tutorial for using corba
     year: '2000'
   JUdMRGcAAAAJ:VRfTbSk87rEC:
-    citations: 143
+    citations: 144
     title: 'ViDeNN: Deep Blind Video Denoising'
     year: '2019'
   JUdMRGcAAAAJ:V_vSwabWVtYC:
@@ -422,11 +430,11 @@ papers:
     title: Deep Visual City Recognition Visualization.
     year: '2019'
   JUdMRGcAAAAJ:Vr2j17o0sqMC:
-    citations: 226
+    citations: 223
     title: What do 15,000 object categories tell us about classifying and localizing actions?
     year: '2015'
   JUdMRGcAAAAJ:Vztgr1qGG8IC:
-    citations: 15
+    citations: 19
     title: 'Objects do not disappear: Video object detection by single-frame object location anticipation'
     year: '2023'
   JUdMRGcAAAAJ:W2uZP3ddy8sC:
@@ -446,7 +454,7 @@ papers:
     title: The MediaMill TRECVID 2005 Semantic Video Search Engine
     year: Unknown Year
   JUdMRGcAAAAJ:WzTVkKNmPSkC:
-    citations: 8
+    citations: 9
     title: Exploiting Learned Symmetries in Group Equivariant Convolutions
     year: '2021'
   JUdMRGcAAAAJ:X4-KO54GjGYC:
@@ -466,15 +474,15 @@ papers:
     title: 'Rethinking online action detection in untrimmed videos: A novel online evaluation protocol'
     year: '2019'
   JUdMRGcAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 10
     title: Accessing video archives using interactive search
     year: '2004'
   JUdMRGcAAAAJ:Y9VhQm-5nPIC:
-    citations: 26
+    citations: 25
     title: Attention-aware age-agnostic visual place recognition
     year: '2019'
   JUdMRGcAAAAJ:YPNY0knpFBYC:
-    citations: 262
+    citations: 261
     title: 'DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks'
     year: '2017'
   JUdMRGcAAAAJ:YsMSGLbcyi4C:
@@ -490,7 +498,7 @@ papers:
     title: O. deRooij, FJ Seinstra, A. Smeulders, CJ Veenman and M. Worring" The MediaMill TRECVID 2005 semantic video search engine
     year: Unknown Year
   JUdMRGcAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 20
     title: Episode-constrained cross-validation in video concept retrieval
     year: '2009'
   JUdMRGcAAAAJ:_kc_bZDykSQC:
@@ -502,7 +510,7 @@ papers:
     title: Graph Similarity Learning of Floor Plans
     year: '2025'
   JUdMRGcAAAAJ:_tF6a-HnqWAC:
-    citations: 172
+    citations: 174
     title: 'APT: Action localization Proposals from dense Trajectories'
     year: '2015'
   JUdMRGcAAAAJ:a2necdfpwlEC:
@@ -510,7 +518,7 @@ papers:
     title: Evaluating Methods for Improving Crowdsourced Annotations of Images Containing Lego Bricks
     year: Unknown Year
   JUdMRGcAAAAJ:aDl3D7KC1E4C:
-    citations: 49
+    citations: 48
     title: Evaluating the performance of the LIME and Grad-CAM explanation methods on a LEGO multi-label image classification task
     year: '2020'
   JUdMRGcAAAAJ:aEW5N-EHWIMC:
@@ -542,11 +550,11 @@ papers:
     title: Performance analysis of Simultaneous Localization and Mapping to reconstruct aircraft engines in 3D
     year: Unknown Year
   JUdMRGcAAAAJ:cNe27ouKFcQC:
-    citations: 122
+    citations: 123
     title: 'FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes'
     year: '2021'
   JUdMRGcAAAAJ:cRMvf6lLvU8C:
-    citations: 5
+    citations: 6
     title: Is there progress in activity progress prediction?
     year: '2023'
   JUdMRGcAAAAJ:d1gkVwhDpl0C:
@@ -554,16 +562,16 @@ papers:
     title: Kernel codebooks for scene categorization
     year: '2008'
   JUdMRGcAAAAJ:d4tt_xEv1X8C:
-    citations: 12
+    citations: 10
     title: Using and abusing equivariance
     year: '2023'
   JUdMRGcAAAAJ:dhFuZR0502QC:
-    citations: 2
+    citations: 1
     title: 'Spot the Differences: From a Photograph Burst to the Single Best Picture'
     year: '2013'
   JUdMRGcAAAAJ:e84hm74t-eoC:
-    citations: 136
-    title: Zero-Shot Day-Night Domain Adaptation With a Physics Prior
+    citations: 140
+    title: Zero-shot day-night domain adaptation with a physics prior
     year: '2021'
   JUdMRGcAAAAJ:eFf2swCANGcC:
     citations: 0
@@ -575,7 +583,7 @@ papers:
     year: '2001'
   JUdMRGcAAAAJ:g8uWPOAv7ggC:
     citations: 3
-    title: Cross Domain Image Matching in Presence of Outliers
+    title: Cross domain image matching in presence of outliers
     year: '2019'
   JUdMRGcAAAAJ:gV6rEsy15s0C:
     citations: 0
@@ -590,7 +598,7 @@ papers:
     title: Evaluating Structure-from-Motion on shiny and non-textured surfaces in borescope videos
     year: Unknown Year
   JUdMRGcAAAAJ:h168fVGZblEC:
-    citations: 142
+    citations: 146
     title: Deep Unsupervised Image Hashing by Maximizing Bit Entropy
     year: '2021'
   JUdMRGcAAAAJ:hFOr9nPyWt4C:
@@ -602,23 +610,23 @@ papers:
     title: 'Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction'
     year: '2026'
   JUdMRGcAAAAJ:hNSvKAmkeYkC:
-    citations: 86
+    citations: 88
     title: "D\xE9j\xE0 Vu: Motion prediction in static images"
     year: '2014'
   JUdMRGcAAAAJ:hefNtdE4IMkC:
-    citations: 19
+    citations: 21
     title: Assessing facial weakness in myasthenia gravis with facial recognition software and deep learning
     year: '2023'
   JUdMRGcAAAAJ:hfzGNhXhx5MC:
     citations: 3
-    title: Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models
+    title: Benchmarking data efficiency and computational efficiency of temporal action localization models
     year: '2023'
   JUdMRGcAAAAJ:hqOjcs7Dif8C:
     citations: 5
     title: Text Mining tools on the Internet
     year: '2000'
   JUdMRGcAAAAJ:i91s68tWr-MC:
-    citations: 2
+    citations: 3
     title: 'Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling'
     year: '2025'
   JUdMRGcAAAAJ:i_7YvbSbtFEC:
@@ -626,7 +634,7 @@ papers:
     title: Data-efficient learning for 3D mirror symmetry detection
     year: '2021'
   JUdMRGcAAAAJ:idthP5jqfYAC:
-    citations: 56
+    citations: 54
     title: Resolution learning in deep convolutional networks using scale-space theory
     year: '2021'
   JUdMRGcAAAAJ:ifOnle78iJkC:
@@ -634,11 +642,11 @@ papers:
     title: 'The ArchiMediaL Project: Opening up the Architectural Heritage in Repositories and Image Databases'
     year: '2017'
   JUdMRGcAAAAJ:inmFHauC9wsC:
-    citations: 3
-    title: Non-Destructive Infield Quality Estimation of Strawberries Using Deep Architectures
+    citations: 4
+    title: Non-destructive infield quality estimation of strawberries using deep architectures
     year: '2023'
   JUdMRGcAAAAJ:j5aT6aphRxQC:
-    citations: 34
+    citations: 33
     title: Differentiable Transportation Pruning
     year: '2023'
   JUdMRGcAAAAJ:jlhcAiayVhoC:
@@ -650,11 +658,11 @@ papers:
     title: Data-efficient gan for synthetic samples of rare classes
     year: '2021'
   JUdMRGcAAAAJ:kUhpeDhEZMUC:
-    citations: 67
+    citations: 68
     title: Efficient real-time camera based estimation of heart rate and its variability
     year: '2019'
   JUdMRGcAAAAJ:l6Q3WhenKVUC:
-    citations: 2
+    citations: 3
     title: 'NeRD++: Improved 3D-mirror symmetry learning from a single image'
     year: '2022'
   JUdMRGcAAAAJ:lK9BDNCuzFgC:
@@ -666,7 +674,7 @@ papers:
     title: Running Event Visualization using Videos from Multiple Cameras
     year: '2019'
   JUdMRGcAAAAJ:lg2tdxc6qMwC:
-    citations: 63
+    citations: 64
     title: 'Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting'
     year: '2015'
   JUdMRGcAAAAJ:mB3voiENLucC:
@@ -686,7 +694,7 @@ papers:
     title: Can we predict the Most Replayed data of video streaming platforms?
     year: '2023'
   JUdMRGcAAAAJ:natZJ_-F0IUC:
-    citations: 18
+    citations: 19
     title: Using phase instead of optical flow for action recognition
     year: '2018'
   JUdMRGcAAAAJ:oTdOBqtIf_kC:
@@ -695,10 +703,10 @@ papers:
     year: '2015'
   JUdMRGcAAAAJ:oYLFIHfuHKwC:
     citations: 15
-    title: 'Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems'
+    title: 'Learning physics from video: Unsupervised physical parameter estimation for continuous dynamical systems'
     year: '2025'
   JUdMRGcAAAAJ:ojlX30-wUrgC:
-    citations: 2
+    citations: 5
     title: Deep activity propagation via weight initialization in spiking neural networks
     year: '2025'
   JUdMRGcAAAAJ:oldoQiaHq2UC:
@@ -706,7 +714,7 @@ papers:
     title: 'Data-Efficient Challenges in Visual Inductive Priors: A Retrospective'
     year: '2025'
   JUdMRGcAAAAJ:oqD4_j7ulsYC:
-    citations: 4
+    citations: 2
     title: Proximally Sensitive Error for Anomaly Detection and Feature Learning
     year: '2022'
   JUdMRGcAAAAJ:orDZ08hpP44C:
@@ -718,7 +726,7 @@ papers:
     title: One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network Download PDF
     year: Unknown Year
   JUdMRGcAAAAJ:pRWBApOjXDcC:
-    citations: 1
+    citations: 2
     title: Learning to Adapt to Position Bias in Vision Transformer Classifiers
     year: '2025'
   JUdMRGcAAAAJ:pYKElYtJMmwC:
@@ -730,7 +738,7 @@ papers:
     title: Hallucination In Object Detection--A Study In Visual Part Verification
     year: '2021'
   JUdMRGcAAAAJ:q1zXlPLtbUIC:
-    citations: 26
+    citations: 30
     title: A step towards understanding why classification helps regression
     year: '2023'
   JUdMRGcAAAAJ:qCpRzq7zkD8C:
@@ -742,7 +750,7 @@ papers:
     title: 'SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity'
     year: Unknown Year
   JUdMRGcAAAAJ:qjMakFHDy7sC:
-    citations: 60
+    citations: 58
     title: 'Mediamill: Exploring news video archives based on learned semantics'
     year: '2005'
   JUdMRGcAAAAJ:qsWQJNntlusC:
@@ -754,7 +762,7 @@ papers:
     title: Merl--A Mitsubishi Electric Research Laboratory
     year: Unknown Year
   JUdMRGcAAAAJ:rCNdntzdTkkC:
-    citations: 153
+    citations: 150
     title: Structured receptive fields in cnns
     year: '2016'
   JUdMRGcAAAAJ:rFyVMFCKTwsC:
@@ -762,7 +770,7 @@ papers:
     title: Aligning Object Detector Bounding Boxes with Human Preference
     year: '2024'
   JUdMRGcAAAAJ:rLGzs9wiiwIC:
-    citations: 88
+    citations: 86
     title: 'Divide and count: Generic object counting by image divisions'
     year: '2018'
   JUdMRGcAAAAJ:rOcdG6UcVlcC:
@@ -770,7 +778,7 @@ papers:
     title: Asymmetric kernel in Gaussian Processes for learning target variance
     year: '2018'
   JUdMRGcAAAAJ:rbGdIwl2e6cC:
-    citations: 11
+    citations: 9
     title: The Arm-Swing Is Discriminative in Video Gait Recognition for Athlete Re-Identification
     year: '2021'
   JUdMRGcAAAAJ:roLk4NBRz8UC:
@@ -790,7 +798,7 @@ papers:
     title: 'PUNet: Temporal Action Proposal Generation With Positive Unlabeled Learning Using Key Frame Annotations'
     year: '2021'
   JUdMRGcAAAAJ:sgsej9ZJWHMC:
-    citations: 35
+    citations: 36
     title: Towards Single Camera Human 3D-Kinematics
     year: '2022'
   JUdMRGcAAAAJ:tBlTYpvFGQIC:
@@ -810,7 +818,7 @@ papers:
     title: Explainability of Deep Learning models for Urban Space perception
     year: '2022'
   JUdMRGcAAAAJ:u5HHmVD_uO8C:
-    citations: 805
+    citations: 804
     title: The challenge problem for automated detection of 101 semantic concepts in multimedia
     year: '2006'
   JUdMRGcAAAAJ:uAPFzskPt0AC:
@@ -818,7 +826,7 @@ papers:
     title: 'Deep vanishing point detection: Geometric priors make dataset variations vanish'
     year: '2022'
   JUdMRGcAAAAJ:uUvzmPk0f8oC:
-    citations: 26
+    citations: 25
     title: 'VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges'
     year: '2021'
   JUdMRGcAAAAJ:ufrVoPGSRksC:
@@ -826,11 +834,11 @@ papers:
     title: 'MediaMill: Video Search using a Thesaurus of 500 Machine Learned Concepts.'
     year: '2006'
   JUdMRGcAAAAJ:ukw-9cB-YDkC:
-    citations: 32
+    citations: 33
     title: Seismic inversion with deep learning
     year: '2021'
   JUdMRGcAAAAJ:vVJNg6_NJEsC:
-    citations: 32
+    citations: 35
     title: 'Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels'
     year: '2020'
   JUdMRGcAAAAJ:v_tt_AnqfNMC:
@@ -858,7 +866,7 @@ papers:
     title: Scale Learning in Scale-Equivariant Convolutional Networks
     year: '2024'
   JUdMRGcAAAAJ:wyM6WWKXmoIC:
-    citations: 46
+    citations: 48
     title: Hand-tremor frequency estimation in videos
     year: '2018'
   JUdMRGcAAAAJ:x21FZCSn4ZoC:
@@ -870,7 +878,7 @@ papers:
     title: Image matching on a mobile device
     year: Unknown Year
   JUdMRGcAAAAJ:xm0LlTxljI0C:
-    citations: 16
+    citations: 17
     title: Exploring the Long Tail of Social Media Tags
     year: '2016'
   JUdMRGcAAAAJ:xyvS_IvSCKsC:
