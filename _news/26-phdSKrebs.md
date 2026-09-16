@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- **PhD Committee.** For the PhD defense of Sebastian Krebs, Technical University Delft (TUD).
+- **PhD Committee.** For the PhD defense of Dr. Sebastian Krebs, Technical University Delft (TUD).

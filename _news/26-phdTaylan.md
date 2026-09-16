@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- **PhD Committee.** For the PhD defense of Taylan Turan, Technical University Delft (TUD).
+- **PhD Committee.** For the PhD defense of Dr. Taylan Turan, Technical University Delft (TUD).

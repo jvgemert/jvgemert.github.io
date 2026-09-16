@@ -128,13 +128,13 @@ This means your thesis report will need three parts:
 - **Part 3: Scientific article**:  Preferably in double column CVPR-style Latex format. This is written in the same style as a publication in the field.
 
 
-The thesis should contain a statement about the use of LLMs/AI where you state *if*, *how* and *what for* it was used. It's fine to use it, responsibly. In the end you remain responsible for the text.
+The thesis should contain a statement about the use of LLMs/AI where you state *if*, *how* and *what for* it was used. It's fine to use it, responsibly. In the end you remain responsible for the text. 
 
 
 For the writing: follow my [writing guidelines](/writing.pdf). Here are some example MSc theses done in this format (some have the background as part 3; but it's clearer to have the background as part 2 and the article as part 3):  [Example](https://repository.tudelft.nl/record/uuid:db7d70ad-d6b5-42cb-82bb-0f4851dc57cf/), [Example](https://repository.tudelft.nl/record/uuid:67e789e4-b51c-4254-84a1-8c8e8653de5f/), [Example](https://repository.tudelft.nl/record/uuid:189bdb4f-ff47-4249-bab2-a40b63616565/), [Example](https://repository.tudelft.nl/record/uuid:7c94e4f1-f2a7-4d32-9bcc-3695d2be0b87/).
 
 
-Make sure that your thesis answers the questions that are typically asked in a thesis defense (see below).
+Make sure that your thesis answers the questions that are typically asked in a thesis defense (see below) and please check the [rubric](/assets/pdf/DSAIT-Thesis-Assessment-Rubric.pdf).
 
 
 
@@ -152,7 +152,7 @@ The procedure during the defense is approximately as follows:
 - You give a presentation of around 20 minutes (follow my presentation [guidelines](/links.html).) The presentation time is short on purpose: we wish to assess how well you can extract the essentials of your work.
 - Some questions from the audience.
 - Detailed questions from the committee members.
-- The committee retreats and decides on a  [weighted](/assets/pdf/thesis_form.pdf) grade, based on this  [matrix.](/assets/pdf/thesis_matrix.pdf)
+- The committee retreats and fill in the [rubric](/assets/pdf/DSAIT-Thesis-Assessment-Rubric.pdf) to determine the grade.
 - The committee motivates the grade to the candidate privately.
 - The diploma ceremony proceeds in public.
 
