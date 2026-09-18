@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/meeting.html";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/teach.html";
+          },
         },{id: "news-accepted-paper-icip-2015-per-patch-metric-learning-for-robust-image-matching-pdf",
           title: 'Accepted paper. ICIP 2015, “Per-patch metric learning for robust image matching”  (pdf)',
           description: "",
