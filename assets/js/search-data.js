@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-guidelines",
-          title: "guidelines",
-          description: "My research guidelines for Fundamental empirical understanding-based deep learning research; and links to guidelines from others.",
+        },{id: "nav-values",
+          title: "values",
+          description: "My research values for Fundamental empirical understanding-based deep learning research; and links to others.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/links.html";
@@ -862,5 +862,8 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-organization-organizing-a-national-meeting-on-data-efficiency-in-deep-learning-in-the-netherlands",
           title: 'Organization. Organizing a national meeting on data-efficiency in deep learning in The Netherlands....',
+          description: "",
+          section: "News",},{id: "news-values-i-wrote-down-my-views-on-the-goal-of-yearly-phd-evaluation-meetings-and-go-nogo",
+          title: 'Values. I wrote down my views on the Goal of yearly PhD evaluation...',
           description: "",
           section: "News",},];
