@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /links.html
-title: guidelines
-description: My research guidelines for Fundamental empirical understanding-based deep learning research; and links to guidelines from others.
+title: values
+description: My research values for Fundamental empirical understanding-based deep learning research; and links to others.
 nav: true
 nav_order: 3
 ---
@@ -28,6 +28,12 @@ Fill in this [paper\_skeleton](assets/pdf/paper_skeleton.rtf) when writing a res
 #### Grant proposal writing.
 
 My view on individual grant proposals as a presentation called [Fairytales.. ..and successful individual grant proposals](/assets/pdf/Fairytales and successful grant proposals.pdf).
+
+
+    
+#### PhD evaluation meetings.
+
+A PhD trajectory has yearly evaluation meetings for reflection. To give some structure, here are my views on the [Goal of yearly PhD evaluation meetings and go-NoGo](/assets/pdf/phdEvalMeetings.pdf).
 
 <p/>
     
