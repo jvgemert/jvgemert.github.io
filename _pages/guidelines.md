@@ -47,7 +47,7 @@ A PhD trajectory has yearly evaluation meetings for reflection. To give some str
 
 <p/>
 
-
+*  **Doing a PhD (in The Netherlands)** What are your reasons to do a PhD: [Considering a PhD in the Netherlands](https://riannedeheide.github.io/phd-netherlands.html).
 
 *   **Reasons to do a PhD**. A PhD is a significant commitment that can offer unique opportunities for intellectual growth, research training, and career development - but it's not for everyone and shouldn't be. Here's a couple of models of [when a PhD can be valuable](https://www.eugenevinitsky.com/posts/reasons-to-do-a-phd/)
 
