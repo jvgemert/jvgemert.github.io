@@ -27,7 +27,7 @@ I do not believe in excluding unmotivated students who might not have remembered
 
 **Deep Learning**
 
-Here are my slides for the Deep Learning part of the Machine and Deep Learning course at TU Delft.
+Here are my slides for the Deep Learning part of the Machine and Deep Learning course at TU Delft. Approximate lecture time in brackets.
 
 
 <div class="row">
@@ -39,7 +39,7 @@ Here are my slides for the Deep Learning part of the Machine and Deep Learning c
 - [intro](/assets/slides/MDL-TUD-00-intro.pdf) (10 min)
 - [feedforward](/assets/slides/MDL-TUD-01-feedforward.pdf) (80 min)
 - [loss](/assets/slides/MDL-TUD-02-loss.pdf) with the excellent [notes](/assets/slides/MDL-RGrosse-loss.pdf) by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/). (45 min)
-- [backprop](/assets/slides/MDL-TUD-03-backprop.pdf) with the excellent [bar notation](/assets/slides/MDL-RGrosse-backprop.pdf) by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/). (45 min)
+- [backprop](/assets/slides/MDL-TUD-03-backprop.pdf) with the clear [bar notation](/assets/slides/MDL-RGrosse-backprop.pdf) by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/). (45 min)
 - [optimization](/assets/slides/MDL-TUD-04-optimization.pdf) (90 min)
 - [cnn](/assets/slides/MDL-TUD-05-cnn.pdf) (90 min)
 - [rnn](/assets/slides/MDL-TUD-06-rnn.pdf) (90 min)
