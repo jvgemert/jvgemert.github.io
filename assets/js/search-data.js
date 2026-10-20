@@ -866,4 +866,7 @@ ninja.data = [{
           section: "News",},{id: "news-values-i-wrote-down-my-views-on-the-goal-of-yearly-phd-evaluation-meetings-and-go-nogo",
           title: 'Values. I wrote down my views on the Goal of yearly PhD evaluation...',
           description: "",
+          section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-dr-jesse-hagenaars-technical-university-delft-tud",
+          title: 'PhD Committee. For the PhD defense of Dr. Jesse Hagenaars, Technical University Delft...',
+          description: "",
           section: "News",},];
