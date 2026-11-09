@@ -50,7 +50,12 @@ Here are my slides for the Deep Learning part of the Machine and Deep Learning c
 
 
 
+**Image processing**
 
+Here are a few slides for the Image Processing BSc course at TU Delft. Approximate lecture time is 45 min.
+
+
+- [histograms](/assets/slides/IP-histograms.pdf) 
 
 
 
