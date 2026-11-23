@@ -869,4 +869,7 @@ ninja.data = [{
           section: "News",},{id: "news-phd-committee-for-the-phd-defense-of-dr-jesse-hagenaars-technical-university-delft-tud",
           title: 'PhD Committee. For the PhD defense of Dr. Jesse Hagenaars, Technical University Delft...',
           description: "",
+          section: "News",},{id: "news-keynote-presentation-at-the-ellis-delft-symposium-called-should-we-stop-doing-deep-learning-research-in-times-of-ai",
+          title: 'Keynote presentation. At the ELLIS Delft Symposium called Should we stop doing Deep...',
+          description: "",
           section: "News",},];
