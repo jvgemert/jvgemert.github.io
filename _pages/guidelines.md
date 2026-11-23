@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-#### My guidelines on Fundamental empirical understanding-based deep learning research.
+##### My guidelines on Fundamental empirical understanding-based deep learning research.
 
 I do not believe in rigid rules, yet, I do have a set of guiding principles. My collected [research guidelines](/ResearchGuidelinesInDL.pdf) contain several parts about doing research. They involve: research organization, writing, the storyline, meetings, presenting, posters, reviews/rebuttals. Please read them, if you are doing research with me. Individual sections are available here:
     
@@ -21,19 +21,31 @@ I do not believe in rigid rules, yet, I do have a set of guiding principles. My 
 
 <p/>
     
-#### Research paper template.  
+##### Research paper template.  
 
 Fill in this [paper\_skeleton](assets/pdf/paper_skeleton.rtf) when writing a research paper. For everybody who is writing a paper or thesis with me. This template helps to organize our thoughts and adds structure to the writing process. Here is an [example skeleton](assets/pdf/paper_skeleton_example_CVPR20.rtf) for one of my [papers](pub/kayhanCVPR20translationInvarianceCNN.pdf).
     
-#### Grant proposal writing.
+##### Grant proposal writing.
 
 My view on individual grant proposals as a presentation called [Fairytales.. ..and successful individual grant proposals](/assets/pdf/Fairytales and successful grant proposals.pdf).
 
+    
+##### Doing deep learning research in times of AI.
+
+Now that AI is taking over parts of the research process, I have an ELLIS presentation on: [Should we stop doing Deep Learning research in times of AI?](/assets/pdf/jvgemertEllis19Nov26.pdf)
+
 
     
-#### PhD evaluation meetings.
+##### PhD evaluation meetings.
 
 A PhD trajectory has yearly evaluation meetings for reflection. To give some structure, here are my views on the [Goal of yearly PhD evaluation meetings and go-NoGo](/assets/pdf/phdEvalMeetings.pdf).
+
+    
+##### PhD propositions.
+
+A PhD thesis at TU Delft requires propositions. Here are my view on [PhD thesis propositions](/assets/pdf/Propositions.pdf). 
+
+
 
 <p/>
     
